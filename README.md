@@ -56,10 +56,9 @@ CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
   - Environmental specialization: Applied spatial analysis in 6 GIS courses
     - Intro GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship
   - Completed 3 courses in Programming
-    - Geospatail Programming, Intro to Programming, and Python Programming I 
+    - Geospatial Programming, Intro to Programming, and Python Programming I 
   <br><br>
 
 **Bachelor of Arts** in Political Science<br>
 [University of California](https://www.ucla.edu/) Los Angeles, CA | _(2014)_ 
   - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
-
