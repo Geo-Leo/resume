@@ -66,14 +66,14 @@ API-first infrastructure to create, manage and distribute content.
 
 **ESRI Training Certificates**<br>
 [ESRI Academy](https://www.esri.com/training/) Online _(Ongoing)_
-  - Completed 11 ESRI training courses (27.5 hours), including: Python for Everyone, Map Design Fundamentals, Building Geoprocessing Models Using ArcGIS Pro, ArcGIS Pro Tasks & others
+ - Completed 11 ESRI training courses (27.5 hours), including: Python for Everyone, Map Design Fundamentals, Building Geoprocessing Models Using ArcGIS Pro, ArcGIS Pro Tasks & others
 
 **Associate of Science** in Applied Geographic Information Systems<br>
 [Rio Hondo College](https://www.riohondo.edu/) Whittier, CA _(expected 2022)_
-  - Environmental specialization: Applied spatial analysis in 7 GIS courses
-  - Completed 3 courses in Programming 
+ - Environmental specialization: Applied spatial analysis in 7 GIS courses
+ - Completed 3 courses in Programming 
 
 **Bachelor of Arts** in Political Science<br>
 [University of California](https://www.ucla.edu/) Los Angeles, CA _(2014)_
-  - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
+ - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
 
