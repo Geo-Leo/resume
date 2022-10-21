@@ -1,10 +1,10 @@
-# Carolyn Stransky
+# Leobardo Chavez
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+_GIS Professional and student based in Los Angeles, CA_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:chavezleobardo@hotmail.com) / [GIS Porfolio](https://workwithcarolyn.com/) / [GitHub](https://github.com/geo-leo/)
 
-## 👩🏼‍💻 Engineering Experience
+## Work Experience
 
 **Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
