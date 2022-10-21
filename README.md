@@ -54,6 +54,19 @@ API-first infrastructure to create, manage and distribute content.
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
     <br><br>
 
+## Skills
+- Analyzing & interpreting data
+- Work independently & meeting deadlines
+- Written & oral communication
+- ESRI ArcGIS: ArcMap, Pro, Online, Field Maps
+- Programming: SQL queries, Python, ArcGIS Arcade, R
+- Microsoft Office: Word, Excel, Access, Outlook
+
+**ESRI Training Certificates**<br>
+[ESRI Academy](https://www.esri.com/training/) Online _(Ongoing)_
+  - Completed 11 ESRI training courses (27.5 hours), including: Python for Everyone, Map Design Fundamentals, Building Geoprocessing Models Using ArcGIS Pro, ArcGIS Pro Tasks & others
+
+
 ## Education
 
 **ESRI Training Certificates**<br>
