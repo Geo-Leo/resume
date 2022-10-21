@@ -6,53 +6,36 @@ _GIS Professional and student based in Los Angeles, CA_ <br>
 
 ## Work Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
-<br><br>
-
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
-<br><br>
-
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
-
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
+**GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
+South Pasadena, CA | _(June 2022 - Present)_ <br>
+  - Perform inspections of sub-address features (i.e. units & stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel, satellite, and orthomosaic imagery to efficiently survey sites
+  - Create an ArcGIS Field Maps app with ArcGIS Online, utilize the app for field data collection, review data in a web map in ArcGIS Online, and export data to Excel to track the completion of sites surveyed
+  - Digitize/ edit features and input data with the Beans MapMaker app to produce an accurate web map
+  - Build an ArcGIS dashboard app and create graphs of data in Python to summarize data in real time
+  - Geocode the locations of police and fire department stations, join parcel and demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset
+  - Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data
   <br><br>
 
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
+**Job gap due to the Coronavirus** | _(May 2020 - May 2022)_ <br>
+  - Took courses in GIS and Computer Information Technology
+  <br><br>
+
+**Section 8 Case Manager** | [Los Angeles County Development Authority](https://www.lacda.org/) <br> 
+Alhambra, CA | _(Oct 2018 - April 2020)_ <br>
+  - Entered addresses into the LACDA Jurisdiction ArcGIS web app to help clients find new rental units
+  - Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated tenant's portion of rent to determine eligibility for rental assistance programs
+  <br><br>
+
+**Eligibility Worker II** | [County of Los Angeles, Deparment of Public Social Services](https://dpss.lacounty.gov/en.html) <br> 
+Los Angeles, CA | _(Aug 2016 - Nov 2020)_ <br>
+  - Utilized the LA County Services Locator/ Enterprise GIS portal to refer clients for other county services
+  - Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated monthly benefits to determine eligibility for public assistance programs
+
+## Volunteer Experience
+**Research Assistant** | [Dr. Lesley Farmer, College of Education](https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer) <br> 
+CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
+  - Built Tableau dashboards and gave a PowerPoint presentation on making maps in ArcGIS ArcMap 
+  - Created an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS ArcMap to join survey data with geographic features, and created US maps showing change in student library services
 
 ## Skills
 - Analyzing & interpreting data
@@ -63,17 +46,18 @@ API-first infrastructure to create, manage and distribute content.
 - Microsoft Office: Word, Excel, Access, Outlook
 
 ## Education
-
-**ESRI Training Certificates**<br>
-[ESRI Academy](https://www.esri.com/training/) Online _(Ongoing)_
+**ESRI Training Certificates**<br> 
+[ESRI Academy](https://www.esri.com/training/) Online | _(Ongoing)_
  - Completed 11 ESRI training courses (27.5 hours), including: Python for Everyone, Map Design Fundamentals, Building Geoprocessing Models Using ArcGIS Pro, ArcGIS Pro Tasks & others
+ <br><br>
 
 **Associate of Science** in Applied Geographic Information Systems<br>
-[Rio Hondo College](https://www.riohondo.edu/) Whittier, CA _(expected 2022)_
- - Environmental specialization: Applied spatial analysis in 7 GIS courses
- - Completed 3 courses in Programming 
+[Rio Hondo College](https://www.riohondo.edu/) Whittier, CA | _(expected 2022)_
+  - Environmental specialization: Applied spatial analysis in 7 GIS courses
+  - Completed 3 courses in Programming
+  <br><br>
 
 **Bachelor of Arts** in Political Science<br>
-[University of California](https://www.ucla.edu/) Los Angeles, CA _(2014)_
- - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
+[University of California](https://www.ucla.edu/) Los Angeles, CA | _(2014)_ 
+  - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
 
