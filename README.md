@@ -1,6 +1,6 @@
 # Leobardo Chavez
 
-_GIS Professional and student based in Los Angeles, CA_ <br>
+_GIS Professional and student based in the Greater Los Angeles Area_ <br>
 
 [Email](mailto:chavezleobardo@hotmail.com) / [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) / [GitHub](https://github.com/geo-leo/)
 
@@ -26,7 +26,7 @@ Alhambra, CA | _(Oct 2018 - April 2020)_ <br>
   - Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated tenant's portion of rent to determine eligibility for rental assistance programs
   <br><br>
 
-**Eligibility Worker II** | [County of Los Angeles, Deparment of Public Social Services](https://dpss.lacounty.gov/en.html) <br> 
+**Eligibility Worker II** | [County of Los Angeles, Department of Public Social Services](https://dpss.lacounty.gov/en.html) <br> 
 Los Angeles, CA | _(Aug 2016 - Nov 2020)_ <br>
   - Utilized the LA County Services Locator/ Enterprise GIS portal to refer clients for other county services
   - Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated monthly benefits to determine eligibility for public assistance programs
@@ -53,8 +53,10 @@ CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
 
 **Associate of Science** in Applied Geographic Information Systems<br>
 [Rio Hondo College](https://www.riohondo.edu/) Whittier, CA | _(expected 2022)_
-  - Environmental specialization: Applied spatial analysis in 7 GIS courses
+  - Environmental specialization: Applied spatial analysis in 6 GIS courses
+    - Intro GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship
   - Completed 3 courses in Programming
+    - Geospatail Programming, Intro to Programming, and Python Programming I 
   <br><br>
 
 **Bachelor of Arts** in Political Science<br>
