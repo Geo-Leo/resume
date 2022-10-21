@@ -1,6 +1,6 @@
 # Leobardo Chavez
 
-_GIS Professional and student based in the Greater Los Angeles Area_ <br>
+_GIS Professional and data analyst based in the Greater Los Angeles Area_ <br>
 
 [Email](mailto:chavezleobardo@hotmail.com) / [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) / [GitHub](https://github.com/geo-leo/)
 
@@ -46,11 +46,6 @@ CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
 - Microsoft Office: Word, Excel, Access, Outlook
 
 ## Education
-**ESRI Training Certificates**<br> 
-[ESRI Academy](https://www.esri.com/training/) Online | _(Ongoing)_
- - Completed 11 ESRI training courses (27.5 hours), including: Python for Everyone, Map Design Fundamentals, Building Geoprocessing Models Using ArcGIS Pro, ArcGIS Pro Tasks & others
- <br><br>
-
 **Associate of Science** in Applied Geographic Information Systems<br>
 [Rio Hondo College](https://www.riohondo.edu/) Whittier, CA | _(expected 2022)_
   - Environmental specialization: Applied spatial analysis in 6 GIS courses
@@ -62,3 +57,9 @@ CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
 **Bachelor of Arts** in Political Science<br>
 [University of California](https://www.ucla.edu/) Los Angeles, CA | _(2014)_ 
   - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
+
+## Certifications
+**ESRI Training Certificates** <br>
+[ESRI Academy](https://www.esri.com/training/) Online | _(Ongoing)_
+ - Completed 11 ESRI training courses (27.5 hours), including: Python for Everyone, Map Design Fundamentals, Building Geoprocessing Models Using ArcGIS Pro, ArcGIS Pro Tasks & others
+ <br><br>
