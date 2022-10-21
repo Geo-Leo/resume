@@ -2,7 +2,7 @@
 
 _GIS Professional and student based in Los Angeles, CA_ <br>
 
-[Email](mailto:chavezleobardo@hotmail.com) / [GIS Porfolio](https://workwithcarolyn.com/) / [GitHub](https://github.com/geo-leo/)
+[Email](mailto:chavezleobardo@hotmail.com) / [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) / [GitHub](https://github.com/geo-leo/)
 
 ## Work Experience
 
@@ -55,6 +55,10 @@ API-first infrastructure to create, manage and distribute content.
     <br><br>
 
 ## Education
+
+**ESRI Training Certificates**<br>
+[ESRI Academy](https://www.esri.com/training/) Online _(Ongoing)_
+  - Completed 11 ESRI training courses (27.5 hours), including: Python for Everyone, Map Design Fundamentals, Building Geoprocessing Models Using ArcGIS Pro, ArcGIS Pro Tasks & others
 
 **Associate of Science** in Applied Geographic Information Systems<br>
 [Rio Hondo College](https://www.riohondo.edu/) Whittier, CA _(expected 2022)_
