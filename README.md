@@ -62,5 +62,6 @@ CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
 ## Certifications
 **ESRI Training Certificates** <br>
 [ESRI Academy](https://www.esri.com/training/) Online | _(Ongoing)_
- - Completed 11 ESRI training courses (27.5 hours), including: Python for Everyone, Map Design Fundamentals, Building Geoprocessing Models Using ArcGIS Pro, ArcGIS Pro Tasks & others
+ - Completed 11 ESRI training courses (27.5 hours), including: Python for Everyone, Map Design Fundamentals, Building Geoprocessing Models Using ArcGIS Pro, ArcGIS Pro Tasks & others <br>
+https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C
  <br><br>
