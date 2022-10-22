@@ -1,5 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-dinky
 title: Leobardo Chavez's Resume
 description: 💻🗺️🌐
-github:
-  is_project_page: false
+show_downloads: false
