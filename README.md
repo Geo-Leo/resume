@@ -1,7 +1,7 @@
 # Leobardo Chavez
-![map](https://raw.githubusercontent.com/Geo-Leo/resume/cc9bae5c78c504065caa928bef552aac014e00ca/map.png?token=GHSAT0AAAAAAB2IJKTA6ZJOQCOMRRMHF552Y2T4RNA)
-
 _GIS Professional based in Rosemead, CA_ <br>
+
+![map](https://raw.githubusercontent.com/Geo-Leo/resume/cc9bae5c78c504065caa928bef552aac014e00ca/map.png?token=GHSAT0AAAAAAB2IJKTA6ZJOQCOMRRMHF552Y2T4RNA)
 
 [Email](mailto:chavezleobardo@hotmail.com) / [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) / [GitHub](https://github.com/geo-leo/)
 
@@ -9,9 +9,9 @@ _GIS Professional based in Rosemead, CA_ <br>
 
 **GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
 South Pasadena, CA | _(June 2022 - Present)_ <br>
-  - Perform inspections of sub-address features (i.e. units & stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel, satellite, and orthomosaic imagery to efficiently survey sites
-  - Create an ArcGIS Field Maps app with ArcGIS Online, utilize the app for field data collection, review data in a web map in ArcGIS Online, and export data to Excel to track the completion of sites surveyed
-  - Digitize/ edit features and input data with the Beans MapMaker app to produce an accurate web map
+  - Perform inspections of sub-address features (i.e. units & stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel and satellite maps to efficiently survey sites
+  - Create an ArcGIS Field Maps app with ArcGIS Online, utilize the app for field data collection, build a web map app displaying the data, and export data to Excel to track the completion of sites surveyed
+  - Digitize/ edit features and input data with the Beans.ai MapMaker app to produce accurate maps
   - Build an ArcGIS dashboard app and create graphs of data in Python to summarize data in real time
   - Geocode the locations of police and fire department stations, join parcel and demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset
   - Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data
