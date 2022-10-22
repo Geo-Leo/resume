@@ -53,7 +53,7 @@ CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
 
 ## Skills
 | - Analyzing & interpreting data             | - ESRI ArcGIS: ArcMap, Pro, Online, Field Maps       |
-| :----                                       | :----                                                |
+| -----                                       | ------                                               |
 | - Work independently & meeting deadlines    | - Programming: SQL queries, Python, ArcGIS Arcade, R |
 | - Written & oral communication              | - Microsoft Office: Word, Excel, Access, Outlook     |
 
