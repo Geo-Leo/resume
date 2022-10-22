@@ -3,7 +3,7 @@ _GIS Professional based in Rosemead, CA_ <br>
 
 ![map](https://raw.githubusercontent.com/Geo-Leo/resume/cc9bae5c78c504065caa928bef552aac014e00ca/map.png?token=GHSAT0AAAAAAB2IJKTA6ZJOQCOMRRMHF552Y2T4RNA)
 
-[Email](mailto:chavezleobardo@hotmail.com) / [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) / [GitHub](https://github.com/geo-leo/)
+[Email](mailto:chavezleobardo@hotmail.com) | [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) | [GitHub](https://github.com/geo-leo/)
 
 ## Work Experience
 
