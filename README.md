@@ -1,5 +1,5 @@
 # Leobardo Chavez
-![map](https://github.com/Geo-Leo/resume/blob/cc9bae5c78c504065caa928bef552aac014e00ca/map.png)
+![map](https://raw.githubusercontent.com/Geo-Leo/resume/cc9bae5c78c504065caa928bef552aac014e00ca/map.png?token=GHSAT0AAAAAAB2IJKTA6ZJOQCOMRRMHF552Y2T4RNA)
 
 _GIS Professional based in Rosemead, CA_ <br>
 
