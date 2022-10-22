@@ -1,7 +1,7 @@
 # Leobardo Chavez
 _GIS Professional based in Rosemead, CA_ <br>
 
-![map](https://raw.githubusercontent.com/Geo-Leo/resume/cc9bae5c78c504065caa928bef552aac014e00ca/map.png?token=GHSAT0AAAAAAB2IJKTA6ZJOQCOMRRMHF552Y2T4RNA)
+![map](https://github.com/Geo-Leo/resume/blob/342e157f9c51538fd595cbd0d3987f6d3fd434dd/map.png)
 
 [Email](mailto:chavezleobardo@hotmail.com) | [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) | [GitHub](https://github.com/geo-leo/)
 
