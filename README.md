@@ -1,6 +1,6 @@
 # Leobardo Chavez
 
-_GIS Professional and data analyst based in the Greater Los Angeles Area_ <br>
+_GIS Professional based in Rosemead, CA_ <br>
 
 [Email](mailto:chavezleobardo@hotmail.com) / [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) / [GitHub](https://github.com/geo-leo/)
 
@@ -37,6 +37,19 @@ CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
   - Built Tableau dashboards and gave a PowerPoint presentation on making maps in ArcGIS ArcMap 
   - Created an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS ArcMap to join survey data with geographic features, and created US maps showing change in student library services
 
+## Education
+**Associate of Science** in Applied Geographic Information Systems<br>
+[Rio Hondo College](https://www.riohondo.edu/) Whittier, CA | _(expected 2022)_
+  - Environmental specialization: Applied spatial analysis in 6 GIS courses
+    - Intro GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship
+  - Applied computer programming concepts in 3 courses
+    - Geospatial Programming, Intro to Programming, and Python Programming I 
+  <br><br>
+
+**Bachelor of Arts** in Political Science<br>
+[University of California](https://www.ucla.edu/) Los Angeles, CA | _(2014)_ 
+  - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
+
 ## Skills
 - Analyzing & interpreting data
 - Work independently & meeting deadlines
@@ -44,19 +57,6 @@ CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
 - ESRI ArcGIS: ArcMap, Pro, Online, Field Maps
 - Programming: SQL queries, Python, ArcGIS Arcade, R
 - Microsoft Office: Word, Excel, Access, Outlook
-
-## Education
-**Associate of Science** in Applied Geographic Information Systems<br>
-[Rio Hondo College](https://www.riohondo.edu/) Whittier, CA | _(expected 2022)_
-  - Environmental specialization: Applied spatial analysis in 6 GIS courses
-    - Intro GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship
-  - Completed 3 courses in Programming
-    - Geospatial Programming, Intro to Programming, and Python Programming I 
-  <br><br>
-
-**Bachelor of Arts** in Political Science<br>
-[University of California](https://www.ucla.edu/) Los Angeles, CA | _(2014)_ 
-  - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
 
 ## Certifications
 **ESRI Training Certificates** <br>
