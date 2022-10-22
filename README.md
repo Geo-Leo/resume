@@ -1,7 +1,7 @@
 # Leobardo Chavez
 _GIS Professional based in Rosemead, CA_ <br>
 
-![map](https://github.com/Geo-Leo/resume/blob/342e157f9c51538fd595cbd0d3987f6d3fd434dd/map.png)
+![map](https://gisgeography.com/wp-content/uploads/2015/11/map-image-425x230.png))
 
 [Email](mailto:chavezleobardo@hotmail.com) | [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) | [GitHub](https://github.com/geo-leo/)
 
@@ -52,12 +52,9 @@ CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
   - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
 
 ## Skills
-- Analyzing & interpreting data
-- Work independently & meeting deadlines
-- Written & oral communication
-- ESRI ArcGIS: ArcMap, Pro, Online, Field Maps
-- Programming: SQL queries, Python, ArcGIS Arcade, R
-- Microsoft Office: Word, Excel, Access, Outlook
+| - Analyzing & interpreting data             | - ESRI ArcGIS: ArcMap, Pro, Online, Field Maps       |
+| - Work independently & meeting deadlines    | - Programming: SQL queries, Python, ArcGIS Arcade, R |
+| - Written & oral communication              | - Microsoft Office: Word, Excel, Access, Outlook     |
 
 ## Certifications
 **ESRI Training Certificates** <br>
