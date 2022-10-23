@@ -16,9 +16,6 @@ _GIS Professional based in Rosemead, CA_
 </p> 
 
 <h2 class="shade">Work Experience</h2>
-
-## Work Experience
-
 **GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
 South Pasadena, CA | _June 2022 - Present_ <br>
   - Perform inspections of sub-address features (i.e. units & stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel and satellite maps to efficiently survey sites
@@ -45,13 +42,13 @@ Los Angeles, CA | _Aug 2016 - Nov 2020_ <br>
   - Utilized the LA County Services Locator/ Enterprise GIS portal to refer clients for other county services
   - Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated monthly benefits to determine eligibility for public assistance programs
 
-## Volunteer Experience
+<h2 class="shade">Volunteer Experience</h2>
 **Research Assistant** | [Dr. Lesley Farmer, College of Education](https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer) <br> 
 CSU-Long Beach, CA | _Jan 2015 - May 2015_ <br>
   - Built Tableau dashboards and gave a PowerPoint presentation on making maps in ArcGIS ArcMap 
   - Created an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS ArcMap to join survey data with geographic features, and created US maps showing change in student library services
 
-## Education
+<h2 class="shade">Education</h2>
 **Associate of Science** in Applied Geographic Information Systems <br>
 [Rio Hondo College](https://www.riohondo.edu/) Whittier, CA | _expected 2022_
   - Environmental specialization: Applied spatial analysis in 6 GIS courses
@@ -64,7 +61,7 @@ CSU-Long Beach, CA | _Jan 2015 - May 2015_ <br>
 [University of California](https://www.ucla.edu/) Los Angeles, CA | _2014_ 
   - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
 
-## Skills
+<h2 class="shade">Skills</h2>
 - Analyzing & interpreting data 
 - Work independently & meeting deadlines 
 - Written & oral communication        
@@ -72,7 +69,7 @@ CSU-Long Beach, CA | _Jan 2015 - May 2015_ <br>
 - Programming: SQL queries, Python, ArcGIS Arcade, R
 - Microsoft Office: Word, Excel, Access, Outlook 
 
-## Certifications
+<h2 class="shade">Certifications</h2>
 **ESRI Training Certificates** <br>
 [ESRI Academy](https://www.esri.com/training/) Online | _Ongoing_
  - Completed 12 ESRI training courses (28.6 hours)
