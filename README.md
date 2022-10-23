@@ -63,4 +63,4 @@ CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
 [ESRI Academy](https://www.esri.com/training/) Online | _(Ongoing)_
  - Completed 12 ESRI training courses (28.6 hours)
  
-<iframe width="700" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe> <br><br>
+<iframe width="650" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe> <br><br>
