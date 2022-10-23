@@ -1,8 +1,6 @@
 # Leobardo Chavez
 _GIS Professional based in Rosemead, CA_ <br>
 
-![map](https://gisgeography.com/wp-content/uploads/2015/11/map-image-425x230.png)
-
 [Email](mailto:chavezleobardo@hotmail.com) | [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) | [GitHub](https://github.com/geo-leo/)
 
 ## Work Experience
@@ -63,4 +61,4 @@ CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
 **ESRI Training Certificates** <br>
 [ESRI Academy](https://www.esri.com/training/) Online | _(Ongoing)_
  - Completed 12 ESRI training courses (28.6 hours)
-<iframe width="90%" height="550" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe> <br><br>
+<iframe width="75%" height="75%" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe> <br><br>
