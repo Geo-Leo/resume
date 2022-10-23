@@ -13,6 +13,7 @@ South Pasadena, CA | _(June 2022 - Present)_ <br>
   - Build an ArcGIS dashboard app and create graphs of data in Python to summarize data in real time
   - Geocode the locations of police and fire department stations, join parcel and demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset
   - Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data
+  - Assist in locating, collecting, and GPSing new sites into a Geodatabase
   <br><br>
 
 **Job gap due to the Coronavirus** | _(May 2020 - May 2022)_ <br>
@@ -40,7 +41,7 @@ CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
 **Associate of Science** in Applied Geographic Information Systems<br>
 [Rio Hondo College](https://www.riohondo.edu/) Whittier, CA | _(expected 2022)_
   - Environmental specialization: Applied spatial analysis in 6 GIS courses
-    - Intro GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship
+    - Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship
   - Applied computer programming concepts in 3 courses
     - Geospatial Programming, Intro to Programming, and Python Programming I 
   <br><br>
@@ -61,4 +62,4 @@ CSU-Long Beach, CA | _(Jan 2015 - May 2015)_ <br>
 **ESRI Training Certificates** <br>
 [ESRI Academy](https://www.esri.com/training/) Online | _(Ongoing)_
  - Completed 12 ESRI training courses (28.6 hours)
-<iframe width="800" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe> <br><br>
+<iframe width="750" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe> <br><br>
