@@ -1,4 +1,13 @@
-# Leobardo Chavez
+<style>
+#name {
+  background-color: turquoise;
+  color: black;
+  padding: 10px;
+}
+</style>
+  
+<h1 id="name">Leobardo Chavez</h1>
+
 [Email](mailto:chavezleobardo@hotmail.com) | [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) <br>
 _GIS Professional based in Rosemead, CA_ 
 <p align="left">
