@@ -1,12 +1,12 @@
 <style>
-#name {
+.shade {
   background-color: turquoise;
   color: black;
   padding: 10px;
 }
 </style>
   
-<h1 id="name">Leobardo Chavez</h1>
+<h1 class="shade">Leobardo Chavez</h1>
 
 [Email](mailto:chavezleobardo@hotmail.com) | [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) <br>
 _GIS Professional based in Rosemead, CA_ 
@@ -14,6 +14,9 @@ _GIS Professional based in Rosemead, CA_
   <a href="https://github.com/geo-leo/">
   <img src="https://avatars.githubusercontent.com/u/116207556?v=4" alt="github" style="width:60px; height:60px;"/> </a>
 </p> 
+
+<h2 class="shade">Work Experience</h2>
+
 ## Work Experience
 
 **GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
