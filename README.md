@@ -1,6 +1,6 @@
 <style>
 .shade {
-  border: 5px solid gray;
+  border: 1px ridge gray;
   background-color: turquoise;
   color: black;
   padding: 10px;
