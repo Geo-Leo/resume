@@ -18,14 +18,28 @@ _GIS Professional based in Rosemead, CA_
 <h2 class="shade">Work Experience</h2>
 **GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
 South Pasadena, CA | _June 2022 - Present_ <br>
-  - Perform inspections of sub-address features (i.e. units & stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel and satellite maps to efficiently survey sites
-  - Create an ArcGIS Field Maps app with ArcGIS Online, utilize the app for field data collection, build a web map app displaying the data, and export data to Excel to track the completion of sites surveyed
-  - Digitize/ edit features and input data with the Beans.ai MapMaker app to produce accurate maps
-  - Build an ArcGIS dashboard app and create graphs of data in Python to summarize data in real time
   - Geocode the locations of police and fire department stations, join parcel and demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset
   - Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data
+  - Create an ArcGIS Field Maps app with ArcGIS Online, utilize the app for field data collection, build a web map app displaying the data, and export data to Excel to track the completion of sites surveyed
+  - Perform inspections of sub-address features (i.e. units, elevators, stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel and satellite maps to efficiently survey sites
+  - Digitize/ edit features and input data with the Beans.ai MapMaker app to produce accurate maps
+  - Build an ArcGIS dashboard app to summarize and present data in real time  
   - Assist in locating, collecting, and GPSing prospective sites into a Geodatabase
+  - Manage data, compute statistics, and create graphs with Python to develop a preliminary spatial model
   <br><br>
+  
+  Geocode the locations of police and fire department stations, join parcel and demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset
+Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data
+Create an ArcGIS Field Maps app with ArcGIS Online, utilize the app for field data collection, build a web map app displaying the data, and export data to Excel to track the completion of sites surveyed
+Perform inspections of sub-address features (i.e. units, elevators, stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel and satellite maps to efficiently survey sites
+Digitize/ edit features and input data with the Beans.ai MapMaker app to produce accurate maps
+Build an ArcGIS dashboard app to summarize and present data in real time  
+Assist in locating, collecting, and GPSing prospective sites into a Geodatabase
+Manage data, compute statistics, and create graphs with Python to develop a preliminary spatial model
+
+  
+  
+  
 
 **Job gap due to the Coronavirus** | _(May 2020 - May 2022)_ <br>
   - Took courses in GIS and Computer Information Technology
