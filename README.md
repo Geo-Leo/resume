@@ -1,7 +1,11 @@
 # Leobardo Chavez
-[Email](mailto:chavezleobardo@hotmail.com) | [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) | [GitHub](https://github.com/geo-leo/) <br>
-_GIS Professional based in Rosemead, CA_
-
+[Email](mailto:chavezleobardo@hotmail.com) | [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) <br>
+_GIS Professional based in Rosemead, CA_ 
+<p align="right">
+  <a href="https://github.com/geo-leo/">
+  <img src="https://github.com/Geo-Leo/resume/blob/main/profile.jpg" alt="github" style="width:42px;height:42px;"/>
+  </a>
+</p>
 ## Work Experience
 
 **GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
