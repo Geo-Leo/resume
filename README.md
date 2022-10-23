@@ -15,11 +15,6 @@ border: 1px ridge gray;}
 [Email](mailto:chavezleobardo@hotmail.com) | [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) <br>
 _GIS Professional based in Rosemead, CA_ 
 
-<p align="right">
-  <a href="https://github.com/geo-leo/"> <i>GitHub</i> <br>
-  <img src="https://avatars.githubusercontent.com/u/116207556?v=4" alt="github" style="width:50px; height:50px;"/> </a>
-</p> 
-
 <h2 class="shade">Work Experience</h2>
 **GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
 South Pasadena, CA | _June 2022 - Present_ <br>
@@ -78,4 +73,9 @@ CSU-Long Beach, CA | _Jan 2015 - May 2015_ <br>
 **ESRI Training Certificates** <br>
 [ESRI Academy](https://www.esri.com/training/) Online | _Ongoing_
  - Completed 12 ESRI training courses (28.6 hours)
-<iframe width="80%" height="550" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe> <br>
+<iframe width="80%" height="550" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<p align="right">
+  <a href="https://github.com/geo-leo/"> <i>GitHub</i> <br>
+  <img src="https://avatars.githubusercontent.com/u/116207556?v=4" alt="github" style="width:50px; height:50px;"/> </a>
+</p> 
