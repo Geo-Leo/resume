@@ -1,19 +1,25 @@
 <style>
 .shade {
+  border: 5px outset gray;
   background-color: turquoise;
   color: black;
   padding: 10px;
 }
 </style>
-  
-<h1 class="shade">Leobardo Chavez</h1>
+
+<div class="shade">
+  <span style="float: left;"> 
+    <h1> Leobardo Chavez </h1>
+  </span>
+  <span style="float: right;"> 
+    <h1> <a href="https://github.com/geo-leo/">
+      <img src="https://avatars.githubusercontent.com/u/116207556?v=4" alt="github" style="width:50px; height:50px;"/> </a> </h1>
+  </span>
+  <div style="clear: both;">
+</div>
 
 [Email](mailto:chavezleobardo@hotmail.com) | [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) <br>
 _GIS Professional based in Rosemead, CA_ 
-<p align="left"> 
-  <a href="https://github.com/geo-leo/">
-  <img src="https://avatars.githubusercontent.com/u/116207556?v=4" alt="github" style="width:60px; height:60px;"/> </a>
-</p> 
 
 <h2 class="shade">Work Experience</h2>
 **GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
