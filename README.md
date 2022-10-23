@@ -3,7 +3,7 @@
 _GIS Professional based in Rosemead, CA_ 
 <p align="right">
   <a href="https://github.com/geo-leo/">
-  <img src="https://drive.google.com/file/d/1m0Syv5YkdhIbMG5M-WxWeJrrSjVUw_qN/preview"" alt="github" style="width:42px;height:42px;"/>
+  <img src="https://drive.google.com/file/d/1m0Syv5YkdhIbMG5M-WxWeJrrSjVUw_qN/preview" alt="github" style="width:42px;height:42px;"/>
   </a>
 </p>
 ## Work Experience
