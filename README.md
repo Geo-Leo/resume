@@ -15,8 +15,8 @@ border: 1px ridge gray;}
 [Email](mailto:chavezleobardo@hotmail.com) | [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) <br>
 _GIS Professional based in Rosemead, CA_ 
 
-<p align="right"> <i>GitHub</i><br>
-  <a href="https://github.com/geo-leo/">
+<p align="right">
+  <a href="https://github.com/geo-leo/"> <i>GitHub</i> <br>
   <img src="https://avatars.githubusercontent.com/u/116207556?v=4" alt="github" style="width:50px; height:50px;"/> </a>
 </p> 
 
