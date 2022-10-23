@@ -1,4 +1,7 @@
 <style>
+img {
+border-radius: 50%;
+border: 1px ridge gray;}
 .shade {
   border: 1px ridge gray;
   background-color: turquoise;
@@ -12,7 +15,7 @@
 [Email](mailto:chavezleobardo@hotmail.com) | [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) <br>
 _GIS Professional based in Rosemead, CA_ 
 
-<p align="left"> 
+<p align="right"> <i>GitHub</i><br>
   <a href="https://github.com/geo-leo/">
   <img src="https://avatars.githubusercontent.com/u/116207556?v=4" alt="github" style="width:50px; height:50px;"/> </a>
 </p> 
