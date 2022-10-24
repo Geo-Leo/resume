@@ -12,10 +12,10 @@ border: 1px ridge gray;}
 
 <h1 class="shade">Leobardo Chavez</h1>
 
-[:email: Email](mailto:chavezleobardo@hotmail.com) | [:pushpin: GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) <br>
+[📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) <br>
 _GIS Professional based in Rosemead, CA_ 
 
-<h2 class="shade">:briefcase: Work Experience</h2>
+<h2 class="shade">💼 Work Experience</h2>
 **GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
 South Pasadena, CA | _June 2022 - Present_ <br>
   - Geocode the locations of police and fire department stations, join parcel and demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset
@@ -43,13 +43,13 @@ Los Angeles, CA | _Aug 2016 - Nov 2020_ <br>
   - Utilized the LA County Services Locator/ Enterprise GIS portal to refer clients for other county services
   - Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated monthly benefits to determine eligibility for public assistance programs
 
-<h2 class="shade">:memo: Volunteer Experience</h2>
+<h2 class="shade">📝 Volunteer Experience</h2>
 **Research Assistant** | [Dr. Lesley Farmer, CSULB College of Education](https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer) <br> 
 Long Beach, CA | _Jan 2015 - May 2015_ <br>
   - Built Tableau dashboards and gave a PowerPoint presentation on making maps in ArcGIS ArcMap 
   - Created an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS ArcMap to join survey data with geographic features, and created US maps showing change in student library services
 
-<h2 class="shade">:books: Education</h2>
+<h2 class="shade">📚 Education</h2>
 **Associate of Science** in Applied Geographic Information Systems <br>
 [Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _expected 2022_
   - Environmental specialization: Applied spatial analysis in 6 GIS courses
@@ -62,7 +62,7 @@ Long Beach, CA | _Jan 2015 - May 2015_ <br>
 [University of California, Los Angeles (UCLA)](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
   - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
 
-<h2 class="shade">:clipboard: Skills</h2>
+<h2 class="shade">📋 Skills</h2>
 - Analyzing & interpreting data 
 - Work independently & meeting deadlines 
 - Written & oral communication        
@@ -70,7 +70,7 @@ Long Beach, CA | _Jan 2015 - May 2015_ <br>
 - Programming: SQL queries, Python, ArcGIS Arcade, R
 - Microsoft Office: Word, Excel, Access, Outlook 
 
-<h2 class="shade">:chart_with_upwards_trend: Certifications</h2>
+<h2 class="shade">📈 Certifications</h2>
 **ESRI Training Certificates** <br>
 [ESRI Academy](https://www.esri.com/training/) Online | _Ongoing_
  - Completed 12 ESRI training courses
