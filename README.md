@@ -4,7 +4,7 @@ border-radius: 50%;
 border: 1px ridge gray;}
 .shade {
   border: 1px ridge gray;
-  background-color: turquoise;
+  background-color: lightskyblue;
   color: black;
   padding: 10px;
 }
