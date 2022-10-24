@@ -59,7 +59,7 @@ Long Beach, CA | _Jan 2015 - May 2015_ <br>
   <br><br>
 
 **Bachelor of Arts** in Political Science <br>
-[University of California](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
+[University of California, Los Angeles (UCLA)](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
   - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
 
 <h2 class="shade">Skills</h2>
