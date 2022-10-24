@@ -11,9 +11,9 @@ border: 1px ridge gray;}
 </style>
 
 <h1 class="shade">Leobardo Chavez</h1>
+_GIS Professional based in Rosemead, CA 🏖️_ <br>
 
 [📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) <br>
-_GIS Professional based in Rosemead, CA_ 
 
 <h2 class="shade">💼 Work Experience</h2>
 **GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
