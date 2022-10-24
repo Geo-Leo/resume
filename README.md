@@ -49,7 +49,7 @@ Long Beach, CA | _Jan 2015 - May 2015_ <br>
   - Built Tableau dashboards and gave a PowerPoint presentation on making maps in ArcGIS ArcMap 
   - Created an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS ArcMap to join survey data with geographic features, and created US maps showing change in student library services
 
-<h2 class="shade">📚 Education</h2>
+<h2 class="shade">🎓 Education</h2>
 **Associate of Science** in Applied Geographic Information Systems <br>
 [Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _expected 2022_
   - Environmental specialization: Applied spatial analysis in 6 GIS courses
