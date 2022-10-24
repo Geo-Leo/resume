@@ -44,14 +44,14 @@ Los Angeles, CA | _Aug 2016 - Nov 2020_ <br>
   - Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated monthly benefits to determine eligibility for public assistance programs
 
 <h2 class="shade">Volunteer Experience</h2>
-**Research Assistant** | [Dr. Lesley Farmer, College of Education](https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer) <br> 
-CSU-Long Beach, CA | _Jan 2015 - May 2015_ <br>
+**Research Assistant** | [Dr. Lesley Farmer, CSULB College of Education](https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer) <br> 
+Long Beach, CA | _Jan 2015 - May 2015_ <br>
   - Built Tableau dashboards and gave a PowerPoint presentation on making maps in ArcGIS ArcMap 
   - Created an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS ArcMap to join survey data with geographic features, and created US maps showing change in student library services
 
 <h2 class="shade">Education</h2>
 **Associate of Science** in Applied Geographic Information Systems <br>
-[Rio Hondo College](https://www.riohondo.edu/) Whittier, CA | _expected 2022_
+[Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _expected 2022_
   - Environmental specialization: Applied spatial analysis in 6 GIS courses
     - Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship
   - Applied computer programming concepts in 3 courses
@@ -59,7 +59,7 @@ CSU-Long Beach, CA | _Jan 2015 - May 2015_ <br>
   <br><br>
 
 **Bachelor of Arts** in Political Science <br>
-[University of California](https://www.ucla.edu/) Los Angeles, CA | _2014_ 
+[University of California](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
   - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
 
 <h2 class="shade">Skills</h2>
