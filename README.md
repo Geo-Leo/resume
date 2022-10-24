@@ -11,7 +11,7 @@ border: 1px ridge gray;}
 </style>
 
 <h1 class="shade">Leobardo Chavez</h1>
-_GIS Professional based in Rosemead, CA 🏖️_ <br>
+_GIS Professional based in Rosemead, CA_ 🏖️<br>
 
 [📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) <br>
 
