@@ -1,15 +1,18 @@
 <style>
 img {
-border-radius: 50%;
-border: 1px ridge gray;}
+  border-radius: 50%;
+  border: 1px ridge gray;}
 .shade {
   border: 1px ridge gray;
   background-color: lightskyblue;
   color: black;
   padding: 10px;
 }
+body {
+  font-family: Arial;font-size: 36px;
+}  
 </style>
-<span style='font-family:Arial'>
+
 <h1 class="shade">Leobardo Chavez</h1>
 _GIS Professional based in Rosemead, CA_ <br>
 
@@ -81,4 +84,3 @@ Long Beach, CA | _Jan 2015 - May 2015_ <br>
   <img src="https://avatars.githubusercontent.com/u/116207556?v=4" alt="github" style="width:50px; height:50px;"/> 
   <br> <i>GitHub</i> </a>
 </p> 
-</span>
