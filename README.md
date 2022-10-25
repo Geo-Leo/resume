@@ -7,10 +7,7 @@ img {
   background-color: lightskyblue;
   color: black;
   padding: 10px;
-}
-body {
-  font-family: Arial;font-size: 36px;
-}  
+} 
 </style>
 
 <h1 class="shade">Leobardo Chavez</h1>
