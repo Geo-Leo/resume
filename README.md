@@ -6,14 +6,11 @@ img {
   border: 1px ridge gray;
   background-color: lightskyblue;
   color: black;
-  padding: 10px;
-} 
-} 
+  padding: 10px;} 
 .tab { 
   margin-left: 40px;
-  background-color: mintcream;
-  color: black;
-}
+  background-color: snow;
+  color: black;}
 </style>
 
 <h1 class="shade">Leobardo Chavez</h1>
