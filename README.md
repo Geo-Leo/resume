@@ -8,8 +8,8 @@ img {
   color: black;
   padding: 10px;} 
 .tab { 
-  margin-left: 40px;
-  background-color: snow;
+  margin-left: 15px;
+  background-color: ghostwhite;
   color: black;}
 </style>
 
@@ -23,7 +23,7 @@ img {
 South Pasadena, CA | _June 2022 - Present_ <br>
 <p class='shade tab'>
   ● Geocode the locations of police and fire department stations, join parcel and demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset <br>
-  ● Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data <br>
+  &emsp; &emsp; ● Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data <br>
   ● Create an ArcGIS Field Maps app with ArcGIS Online, utilize the app for field data collection, build a web map app displaying the data, and export data to Excel to track the completion of sites surveyed <br>
   ● Perform inspections of sub-address features (i.e. units, elevators, stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel and satellite maps to efficiently survey sites <br>
   ● Digitize/ edit features and input data with the Beans.ai MapMaker app to produce accurate maps <br>
