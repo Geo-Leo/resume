@@ -9,7 +9,7 @@ img {
   padding: 3px;} 
 .tab { 
   margin-left: 15px;
-  background-color: snow;
+  background-color: azure;
   color: black;}
 </style>
 
