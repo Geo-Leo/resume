@@ -1,12 +1,12 @@
 <style>
 img {
   border-radius: 50%;
-  border: 1px ridge lightgray;}
+  border: 1px ridge gray;}
 .shade {
   border: 1px ridge lightgray;
   background-color: lightskyblue;
   color: black;
-  padding: 1px;} 
+  padding: 2px;} 
 .tab { 
   margin-left: 15px;
   background-color: cornsilk;
