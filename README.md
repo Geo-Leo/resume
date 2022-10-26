@@ -6,10 +6,10 @@ img {
   border: 1px ridge gray;
   background-color: lightskyblue;
   color: black;
-  padding: 10px;} 
+  padding: 7px;} 
 .tab { 
   margin-left: 15px;
-  background-color: ghostwhite;
+  background-color: ivory;
   color: black;}
 </style>
 
@@ -66,7 +66,7 @@ Long Beach, CA | _Jan 2015 - May 2015_ <br>
   - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
 
 <h2 class="shade">📋 Skills</h2>
-<p class='tab'> 
+<p class='shade tab'> 
 ● Analyzing & interpreting data <br>
 ● Work independently & meeting deadlines <br>
 ● Written & oral communication <br>
