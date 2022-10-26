@@ -11,7 +11,7 @@ img {
 } 
 .tab { 
   margin-left: 40px;
-  background-color: snow;
+  background-color: mintcream;
   color: black;
 }
 </style>
