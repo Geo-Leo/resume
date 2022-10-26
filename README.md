@@ -1,7 +1,7 @@
 <style>
 img {
   border-radius: 50%;
-  border: 1px ridge gray;}
+  border: 1px ridge black;}
 .shade {
   border: 1px ridge lightgray;
   background-color: lightskyblue;
@@ -32,19 +32,20 @@ South Pasadena, CA | _June 2022 - Present_ <br>
   ● Manage data, compute statistics, and create graphs with Python to develop a preliminary spatial model </p>  
 
 **Job gap due to the Coronavirus** | _(May 2020 - May 2022)_ <br>
-  - Took courses in GIS and Computer Information Technology
-  <br><br>
+<p class='shade tab'>
+  ● Took courses in GIS and Computer Information Technology </p>
 
 **Section 8 Case Manager** | [Los Angeles County Development Authority](https://www.lacda.org/) <br> 
 Alhambra, CA | _Oct 2018 - April 2020_ <br>
-  - Entered addresses into the LACDA Jurisdiction ArcGIS web app to help clients find new rental units
-  - Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated tenant's portion of rent to determine eligibility for rental assistance programs
-  <br><br>
+<p class='shade tab'>
+  ● Entered addresses into the LACDA Jurisdiction ArcGIS web app to help clients find new rental units <br>
+  ● Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated tenant's portion of rent to determine eligibility for rental assistance programs </p>
 
 **Eligibility Worker II** | [County of Los Angeles, Department of Public Social Services](https://dpss.lacounty.gov/en.html) <br> 
 Los Angeles, CA | _Aug 2016 - Nov 2020_ <br>
-  - Utilized the LA County Services Locator/ Enterprise GIS portal to refer clients for other county services
-  - Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated monthly benefits to determine eligibility for public assistance programs
+<p class='shade tab'>
+  ● Utilized the LA County Services Locator/ Enterprise GIS portal to refer clients for other county services <br>
+  ● Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated monthly benefits to determine eligibility for public assistance programs </p>
 
 <h2 class="shade">📝 Volunteer Experience</h2>
 **Research Assistant** | [Dr. Lesley Farmer, CSULB College of Education](https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer) <br> 
@@ -63,7 +64,8 @@ Long Beach, CA | _Jan 2015 - May 2015_ <br>
 
 **Bachelor of Arts** in Political Science <br>
 [University of California, Los Angeles (UCLA)](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
-  - Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses
+<p class='shade tab'>
+  ● Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses </p>
 
 <h2 class="shade">📋 Skills</h2>
 <p class='shade tab'> 
@@ -77,7 +79,8 @@ Long Beach, CA | _Jan 2015 - May 2015_ <br>
 <h2 class="shade">📈 Certifications</h2>
 **ESRI Training Certificates** <br>
 [ESRI Academy](https://www.esri.com/training/) Online | _Ongoing_
- - Completed 12 ESRI training courses
+<p class='shade tab'>
+  ● Completed 12 ESRI training courses </p>
 <iframe width="80%" height="550" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <p align="right">
