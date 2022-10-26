@@ -57,7 +57,7 @@ Long Beach, CA | _Jan 2015 - May 2015_
 <h2 class='section'>🎓 Education</h2>
 **Associate of Science** in Applied Geographic Information Systems <br>
 [Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _expected 2022_
-<p class='seciton tab'>
+<p class='section tab'>
   ● Environmental specialization: Applied spatial analysis in 6 GIS courses <br> &emsp; &emsp;
     ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship <br>
   ● Applied computer programming concepts in 3 courses <br> &emsp; &emsp;
