@@ -3,12 +3,13 @@ img {
   border-radius: 50%;
   border: .5px solid gray;}
 .section {
-  border: 1px ridge lightgray;
+  border: 1px ridge gray;
   background-color: lightskyblue;
   color: black;
   padding: 3px;} 
 .tab { 
   margin-left: 15px;
+  border: 1px ridge lightgray;
   background-color: aliceblue;
   color: black;}
 </style>
