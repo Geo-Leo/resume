@@ -23,7 +23,7 @@ img {
 South Pasadena, CA | _June 2022 - Present_ <br>
 <p class='shade tab'>
   ● Geocode the locations of police and fire department stations, join parcel and demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset <br>
-  &emsp; &emsp; ● Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data <br>
+  ● Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data <br>
   ● Create an ArcGIS Field Maps app with ArcGIS Online, utilize the app for field data collection, build a web map app displaying the data, and export data to Excel to track the completion of sites surveyed <br>
   ● Perform inspections of sub-address features (i.e. units, elevators, stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel and satellite maps to efficiently survey sites <br>
   ● Digitize/ edit features and input data with the Beans.ai MapMaker app to produce accurate maps <br>
@@ -49,18 +49,19 @@ Los Angeles, CA | _Aug 2016 - Nov 2020_ <br>
 
 <h2 class="shade">📝 Volunteer Experience</h2>
 **Research Assistant** | [Dr. Lesley Farmer, CSULB College of Education](https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer) <br> 
-Long Beach, CA | _Jan 2015 - May 2015_ <br>
-  - Built Tableau dashboards and gave a PowerPoint presentation on making maps in ArcGIS ArcMap 
-  - Created an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS ArcMap to join survey data with geographic features, and created US maps showing change in student library services
+Long Beach, CA | _Jan 2015 - May 2015_
+<p class='shade tab'>
+  ● Built Tableau dashboards and gave a PowerPoint presentation on making maps in ArcGIS ArcMap <br>
+  ● Created an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS ArcMap to join survey data with geographic features, and created US maps showing change in student library services </p>
 
 <h2 class="shade">🎓 Education</h2>
 **Associate of Science** in Applied Geographic Information Systems <br>
 [Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _expected 2022_
-  - Environmental specialization: Applied spatial analysis in 6 GIS courses
-    - Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship
-  - Applied computer programming concepts in 3 courses
-    - Geospatial Programming, Intro to Programming, and Python Programming I 
-  <br><br>
+<p class='shade tab'>
+  ● Environmental specialization: Applied spatial analysis in 6 GIS courses <br> &emsp; &emsp;
+    ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship
+  ● Applied computer programming concepts in 3 courses <br> &emsp; &emsp;
+    ○ Geospatial Programming, Intro to Programming, and Python Programming </p>
 
 **Bachelor of Arts** in Political Science <br>
 [University of California, Los Angeles (UCLA)](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
