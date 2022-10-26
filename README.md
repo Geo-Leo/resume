@@ -1,9 +1,9 @@
 <style>
 img {
   border-radius: 50%;
-  border: 1px ridge gray;}
+  border: 1px ridge lightgray;}
 .shade {
-  border: 1px ridge gray;
+  border: 1px ridge lightgray;
   background-color: lightskyblue;
   color: black;
   padding: 1px;} 
