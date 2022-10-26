@@ -21,7 +21,7 @@ img {
 <h2 class="shade">💼 Work Experience</h2>
 **GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
 South Pasadena, CA | _June 2022 - Present_ <br>
-<p class='shade tab'>
+<p class='tab'>
   ● Geocode the locations of police and fire department stations, join parcel and demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset <br>
   &emsp; &emsp; ● Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data <br>
   ● Create an ArcGIS Field Maps app with ArcGIS Online, utilize the app for field data collection, build a web map app displaying the data, and export data to Excel to track the completion of sites surveyed <br>
