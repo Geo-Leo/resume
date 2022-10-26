@@ -6,7 +6,7 @@ img {
   border: 1px ridge gray;
   background-color: lightskyblue;
   color: black;
-  padding: 2px;} 
+  padding: 1px;} 
 .tab { 
   margin-left: 15px;
   background-color: cornsilk;
