@@ -15,8 +15,8 @@ img {
 
 <h1 class='section'>Leobardo Chavez</h1>
 
-<h3><i>GIS Professional based in Rosemead, CA</i></h3> <br>
-[📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/)
+<h3><i>GIS Professional based in Rosemead, CA</i></h3>
+| [📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) |
 
 <h2 class='section'>💼 Work Experience</h2>
 **GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
