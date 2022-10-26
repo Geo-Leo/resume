@@ -6,10 +6,10 @@ img {
   border: 1px ridge lightgray;
   background-color: lightskyblue;
   color: black;
-  padding: 2px;} 
+  padding: 3px;} 
 .tab { 
   margin-left: 15px;
-  background-color: cornsilk;
+  background-color: snow;
   color: black;}
 </style>
 
