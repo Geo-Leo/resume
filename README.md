@@ -11,8 +11,8 @@ img {
 </style>
 
 <h1 class="shade">Leobardo Chavez</h1>
-_GIS Professional based in Rosemead, CA_ <br>
 
+<h3><i>GIS Professional based in Rosemead, CA</i></h2>
 [📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) <br>
 
 <h2 class="shade">💼 Work Experience</h2>
