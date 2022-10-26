@@ -51,7 +51,7 @@ Los Angeles, CA | _Aug 2016 - Nov 2020_ <br>
 **Research Assistant** | [Dr. Lesley Farmer, CSULB College of Education](https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer) <br> 
 Long Beach, CA | _Jan 2015 - May 2015_
 <p class='section tab'>
-  ● Built Tableau dashboards and gave a PowerPoint presentation on making maps in ArcGIS ArcMap <br>
+  ● Built Tableau dashboards and gave a PowerPoint presentation on creating maps in ArcGIS ArcMap <br>
   ● Created an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS ArcMap to join survey data with geographic features, and created US maps showing change in student library services </p>
 
 <h2 class='section'>🎓 Education</h2>
