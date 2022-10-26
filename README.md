@@ -9,7 +9,7 @@ img {
   padding: 3px;} 
 .tab { 
   margin-left: 15px;
-  background-color: azure;
+  background-color: aliceblue;
   color: black;}
 </style>
 
@@ -59,7 +59,7 @@ Long Beach, CA | _Jan 2015 - May 2015_
 [Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _expected 2022_
 <p class='shade tab'>
   ● Environmental specialization: Applied spatial analysis in 6 GIS courses <br> &emsp; &emsp;
-    ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship
+    ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship <br>
   ● Applied computer programming concepts in 3 courses <br> &emsp; &emsp;
     ○ Geospatial Programming, Intro to Programming, and Python Programming </p>
 
