@@ -3,7 +3,7 @@ img {
   border-radius: 50%;
   border: .5px solid gray;}
 .section {
-  border: 1px ridge lightgray;
+  border: 1px ridge gray;
   background-color: lightskyblue;
   color: black;
   padding: 3px;} 
@@ -32,7 +32,7 @@ South Pasadena, CA | _June 2022 - Present_ <br>
   ● Assist in locating, collecting, and GPSing prospective sites into a Geodatabase <br>
   ● Manage data, compute statistics, and create graphs with Python to develop a preliminary spatial model </p>  
 
-**Job gap due to the Coronavirus** | _(May 2020 - May 2022)_ <br>
+**Job gap due to the Coronavirus** | _May 2020 - May 2022_ <br>
 <p class='section tab'>
   ● Took courses in GIS and Computer Information Technology </p>
 
