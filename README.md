@@ -52,29 +52,29 @@ Los Angeles, CA | _Aug 2016 - Nov 2020_ <br>
 **Research Assistant** | [Dr. Lesley Farmer, CSULB College of Education](https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer) <br> 
 Long Beach, CA | _Jan 2015 - May 2015_
 <p class='section tab'>
-  ● Built Tableau dashboards and gave a PowerPoint presentation on creating maps in ArcGIS ArcMap <br>
-  ● Created an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS ArcMap to join survey data with geographic features, and created US maps showing change in student library services </p>
+  ● Built Tableau dashboards and gave a PowerPoint presentation on creating maps with ArcGIS Desktop ArcMap <br>
+  ● Created an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS Desktop ArcMap to join survey data with geographic features, and created US maps showing change in student library services </p>
 
 <h2 class='section'>🎓 Education</h2>
 **Associate of Science** in Applied Geographic Information Systems <br>
 [Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _expected 2022_
 <p class='section tab'>
   ● Environmental specialization: Applied spatial analysis in 6 GIS courses <br> &emsp; &emsp;
-    ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship <br>
+    ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, & GIS Internship <br>
   ● Applied computer programming concepts in 3 courses <br> &emsp; &emsp;
-    ○ Geospatial Programming, Intro to Programming, and Python Programming I</p>
+    ○ Geospatial Programming, Intro to Programming, & Python Programming I</p>
 
 **Bachelor of Arts** in Political Science <br>
 [University of California, Los Angeles (UCLA)](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
 <p class='section tab'>
-  ● Methods and models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses </p>
+  ● Methods & models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses </p>
 
 <h2 class='section'>📋 Skills</h2>
 <p class='section tab'> 
 ● Analyzing & interpreting data <br>
 ● Work independently & meeting deadlines <br>
 ● Written & oral communication <br>
-● ESRI ArcGIS: ArcMap, Pro, Online, Field Maps <br>
+● ESRI ArcGIS: Desktop ArcMap, Pro, Online, Field Maps <br>
 ● Programming: SQL queries, Python, ArcGIS Arcade, R <br>
 ● Microsoft Office: Word, Excel, Access, Outlook </p>
 
