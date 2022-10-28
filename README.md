@@ -3,7 +3,7 @@ img {
   border-radius: 50%;
   border: .5px solid gray;}
 .section {
-  border: 1px ridge gray;
+  border: 1px ridge ghostwhite;
   background-color: lightskyblue;
   color: black;
   padding: 3px;} 
