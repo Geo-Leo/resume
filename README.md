@@ -60,20 +60,20 @@ Long Beach, CA | _Jan 2015 - May 2015_
 [Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _expected 2022_
 <p class='section tab'>
   ● Environmental specialization: Applied spatial analysis in 6 GIS courses <br> &emsp; &emsp;
-    ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, & GIS Internship <br>
+    ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship <br>
   ● Applied computer programming concepts in 3 courses <br> &emsp; &emsp;
-    ○ Geospatial Programming, Intro to Programming, & Python Programming I</p>
+    ○ Geospatial Programming, Intro to Programming, and Python Programming I</p>
 
 **Bachelor of Arts** in Political Science <br>
 [University of California, Los Angeles (UCLA)](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
 <p class='section tab'>
-  ● Methods & models concentration: Applied data analysis in 4 Political Science & 5 Statistics courses </p>
+  ● Methods and models concentration: Applied data analysis in 4 Political Science and 5 Statistics courses </p>
 
 <h2 class='section'>📋 Skills</h2>
 <p class='section tab'> 
-● Analyzing & interpreting data <br>
-● Work independently & meeting deadlines <br>
-● Written & oral communication <br>
+● Analyzing and interpreting data <br>
+● Work independently and meeting deadlines <br>
+● Written and oral communication <br>
 ● ESRI ArcGIS: Desktop ArcMap, Pro, Online, Field Maps <br>
 ● Programming: SQL queries, Python, ArcGIS Arcade, R <br>
 ● Microsoft Office: Word, Excel, Access, Outlook </p>
