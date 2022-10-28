@@ -17,7 +17,7 @@ img {
 <h1 class='section'>Leobardo Chavez</h1>
 
 <h3><i>GIS Professional based in Rosemead, CA</i></h3>
-[📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/)
+[📧 Email](mailto:chavezleobardo@hotmail.com)|[📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/)
 
 <h2 class='section'>💼 Work Experience</h2>
 **GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
@@ -62,7 +62,7 @@ Long Beach, CA | _Jan 2015 - May 2015_
   ● Environmental specialization: Applied spatial analysis in 6 GIS courses <br> &emsp; &emsp;
     ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship <br>
   ● Applied computer programming concepts in 3 courses <br> &emsp; &emsp;
-    ○ Geospatial Programming, Intro to Programming, and Python Programming </p>
+    ○ Geospatial Programming, Intro to Programming, and Python Programming I</p>
 
 **Bachelor of Arts** in Political Science <br>
 [University of California, Los Angeles (UCLA)](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
