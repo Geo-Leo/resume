@@ -20,13 +20,13 @@ img {
 [📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/)
 
 <h2 class='section'>💼 Work Experience</h2>
-**GIS Data Collector Internship** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
+**GIS Data Collector Intern** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
 South Pasadena, CA | _June 2022 - Present_ <br>
 <p class='section tab'>
-  ● Geocode the locations of police and fire department stations, join parcel and demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset <br>
+  ● Perform inspections of sub-address features (i.e. units, elevators, stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel and satellite maps to efficiently survey sites <br>
   ● Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data <br>
   ● Create an ArcGIS Field Maps app with ArcGIS Online, utilize the app for field data collection, build a web map app displaying the data, and export data to Excel to track the completion of sites surveyed <br>
-  ● Perform inspections of sub-address features (i.e. units, elevators, stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel and satellite maps to efficiently survey sites <br>
+  ● Geocode the locations of police and fire department stations, join parcel and demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset <br>
   ● Digitize/ edit features and input data with the Beans.ai MapMaker app to produce accurate maps <br>
   ● Build an ArcGIS dashboard app to summarize and present data in real time <br>
   ● Manage data, compute statistics, and create graphs with Python to develop a preliminary spatial model </p>  
