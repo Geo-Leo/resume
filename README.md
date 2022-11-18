@@ -16,7 +16,7 @@ img {
 
 <h1 class='section'>Leobardo Chavez</h1>
 
-<h3><i>Reliable GIS Professional based in Rosemead, CA</i></h3>
+<h3><i>Reliable and results-oriented GIS Professional based in Rosemead, CA</i></h3>
 [📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/)
 
 <h2 class='section'>💼 Work Experience</h2>
@@ -33,7 +33,7 @@ South Pasadena, CA | _June 2022 - Present_ <br>
 
 **Job gap due to the Coronavirus** | _May 2020 - May 2022_ <br>
 <p class='section tab'>
-  ● Took courses in GIS and Computer Information Technology </p>
+  ● Took courses in GIS and Computer Information Technology (CIT) </p>
 
 **Section 8 Case Manager** | [Los Angeles County Development Authority](https://www.lacda.org/) <br> 
 Alhambra, CA | _Oct 2018 - April 2020_ <br>
@@ -67,15 +67,16 @@ Long Beach, CA | _Jan 2015 - May 2015_
 **ESRI Training Certificates** <br>
 [ESRI Academy](https://www.esri.com/training/) Online | _Ongoing_
 <p class='section tab'>
-  ● Completed 12 ESRI training courses </p>
+  ● Completed 12 ESRI web courses </p>
 <iframe width="80%" height="550" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <h2 class='section'>🎓 Education</h2>
 **Associate of Science** in Applied Geographic Information Systems <br>
-[Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _expected 2022_
+[Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _expected Dec 2022_
 <p class='section tab'>
   ● Environmental Specialization: Applied spatial analysis and programming in 7 GIS and 2 CIT courses <br> &emsp; &emsp;
-    ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, GIS Internship, Geospatial Programming, Intro to Programming, and Python Programming I</p>
+    ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, GIS Internship, <br> &emsp; &emsp;
+    Geospatial Programming, Intro to Programming, and Python Programming I</p>
 
 **Bachelor of Arts** in Political Science <br>
 [University of California, Los Angeles (UCLA)](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
