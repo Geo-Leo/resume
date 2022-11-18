@@ -16,11 +16,11 @@ img {
 
 <h1 class='section'>Leobardo Chavez</h1>
 
-<h3><i>GIS Professional based in Rosemead, CA</i></h3>
+<h3><i>Reliabel GIS Professional based in Rosemead, CA</i></h3>
 [📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/)
 
 <h2 class='section'>💼 Work Experience</h2>
-**GIS Data Collector** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
+**GIS Data Collector Internship** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
 South Pasadena, CA | _June 2022 - Present_ <br>
 <p class='section tab'>
   ● Geocode the locations of police and fire department stations, join parcel and demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset <br>
@@ -29,7 +29,6 @@ South Pasadena, CA | _June 2022 - Present_ <br>
   ● Perform inspections of sub-address features (i.e. units, elevators, stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel and satellite maps to efficiently survey sites <br>
   ● Digitize/ edit features and input data with the Beans.ai MapMaker app to produce accurate maps <br>
   ● Build an ArcGIS dashboard app to summarize and present data in real time <br>
-  ● Assist in locating, collecting, and GPSing prospective sites into a Geodatabase <br>
   ● Manage data, compute statistics, and create graphs with Python to develop a preliminary spatial model </p>  
 
 **Job gap due to the Coronavirus** | _May 2020 - May 2022_ <br>
@@ -55,20 +54,6 @@ Long Beach, CA | _Jan 2015 - May 2015_
   ● Built Tableau dashboards and gave a PowerPoint presentation on creating maps with ArcGIS Desktop ArcMap <br>
   ● Created an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS Desktop ArcMap to join survey data with geographic features, and created US maps showing change in student library services </p>
 
-<h2 class='section'>🎓 Education</h2>
-**Associate of Science** in Applied Geographic Information Systems <br>
-[Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _expected 2022_
-<p class='section tab'>
-  ● Environmental specialization: Applied spatial analysis in 6 GIS courses <br> &emsp; &emsp;
-    ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, and GIS Internship <br>
-  ● Applied computer programming concepts in 3 courses <br> &emsp; &emsp;
-    ○ Geospatial Programming, Intro to Programming, and Python Programming I</p>
-
-**Bachelor of Arts** in Political Science <br>
-[University of California, Los Angeles (UCLA)](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
-<p class='section tab'>
-  ● Methods and models concentration: Applied data analysis in 4 Political Science and 5 Statistics courses </p>
-
 <h2 class='section'>📋 Skills</h2>
 <p class='section tab'> 
 ● Analyzing and interpreting data <br>
@@ -84,6 +69,18 @@ Long Beach, CA | _Jan 2015 - May 2015_
 <p class='section tab'>
   ● Completed 12 ESRI training courses </p>
 <iframe width="80%" height="550" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<h2 class='section'>🎓 Education</h2>
+**Associate of Science** in Applied Geographic Information Systems <br>
+[Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _expected 2022_
+<p class='section tab'>
+  ● Environmental Specialization: Applied spatial analysis and programming in 7 GIS and 2 CIT courses <br> &emsp; &emsp;
+    ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, GIS Internship, Geospatial Programming, Intro to Programming, and Python Programming I</p>
+
+**Bachelor of Arts** in Political Science <br>
+[University of California, Los Angeles (UCLA)](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
+<p class='section tab'>
+  ● Methods and Models Concentration: Applied data analysis in 4 Political Science and 5 Statistics courses </p>
 
 <p align="right">
   <a href="https://github.com/geo-leo/">
