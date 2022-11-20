@@ -59,7 +59,8 @@ Long Beach, CA | _Jan 2015 - May 2015_
 ● Analyzing and interpreting data <br>
 ● Work independently and meeting deadlines <br>
 ● Written and oral communication <br>
-● ESRI ArcGIS: Desktop ArcMap, Pro, Online, Field Maps <br>
+● ESRI ArcGIS: Desktop ArcMap, Pro, Online, Field Maps, Survey123 <br>
+● ESRI ArcGIS Online Apps: Instant Apps, StoryMaps, Dashboards, Web AppBuilder <br>
 ● Programming: SQL queries, Python, ArcGIS Arcade, R <br>
 ● Microsoft Office: Word, Excel, Access, Outlook </p>
 
