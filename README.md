@@ -42,7 +42,7 @@ Alhambra, CA | _Oct 2018 - April 2020_ <br>
   ● Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated tenant's portion of rent to determine eligibility for rental assistance programs </p>
 
 **Eligibility Worker II** | [County of Los Angeles, Department of Public Social Services](https://dpss.lacounty.gov/en.html) <br> 
-Los Angeles, CA | _Aug 2016 - Nov 2020_ <br>
+Los Angeles, CA | _Aug 2016 - Nov 2017_ <br>
 <p class='section tab'>
   ● Utilized the LA County Services Locator/ Enterprise GIS portal to refer clients for other county services <br>
   ● Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated monthly benefits to determine eligibility for public assistance programs </p>
