@@ -38,7 +38,7 @@ South Pasadena, CA | _June 2022 - Present_ <br>
 **Section 8 Case Manager** | [Los Angeles County Development Authority](https://www.lacda.org/) <br> 
 Alhambra, CA | _Oct 2018 - April 2020_ <br>
 <p class='section tab'>
-  ● Entered addresses into the LACDA Jurisdiction ArcGIS web app to help clients find new rental units <br>
+  ● Entered addresses into the LACDA Jurisdiction ArcGIS web app to help clients locate new rental units <br>
   ● Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated tenant's portion of rent to determine eligibility for rental assistance programs </p>
 
 **Eligibility Worker II** | [County of Los Angeles, Department of Public Social Services](https://dpss.lacounty.gov/en.html) <br> 
