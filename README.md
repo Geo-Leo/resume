@@ -69,7 +69,7 @@ Long Beach, CA | _Jan 2015 - May 2015_
 [ESRI Academy](https://www.esri.com/training/) Online | _Ongoing_
 <p class='section tab'>
   ● Completed 10 ESRI web courses </p>
-<iframe width="80%" height="550" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <h2 class='section'>🎓 Education</h2>
 **Associate of Science** in Applied Geographic Information Systems <br>
