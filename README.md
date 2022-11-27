@@ -30,7 +30,7 @@ South Pasadena, CA | _June 2022 - Present_ <br>
   ● Digitize/ edit features and input data with the Beans.ai MapMaker app to produce accurate maps <br>
   ● Build an ArcGIS dashboard app to present data using graphs, tables, and an interactive web map <br>
   ● Manage data, compute statistics, and create graphs with Python to develop a spatial regression model <br>
-  ● Construct PostgreSQL queries using CARTO to select demographic data and export to ArcGIS Pro </p>
+  ● Construct SQL queries with BigQuery in CARTO to select demographic data and export to ArcGIS Pro </p>
 
 **Job gap due to the Coronavirus** | _May 2020 - May 2022_ <br>
 <p class='section tab'>
