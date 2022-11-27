@@ -25,11 +25,12 @@ South Pasadena, CA | _June 2022 - Present_ <br>
 <p class='section tab'>
   ● Perform inspections of sub-address features (i.e. units, elevators, stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel and satellite maps to efficiently survey sites <br>
   ● Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data <br>
-  ● Build an ArcGIS Field Maps app with ArcGIS Online, utilize the app to collect field data, build a web app displaying the field data, and export the data to Excel to track the completion of sites surveyed <br>
-  ● Geocode lists of site addresses, join parcel and demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset for spatial analysis <br>
+  ● Build an ArcGIS Field Maps app with ArcGIS Online, utilize the app to collect field data, create a web app displaying the field data, and export the data to Excel to track the completion of sites surveyed <br>
+  ● Geocode lists of site addresses, spatially join parcel/ demographic data to field data, and calculate the distance to the nearest police/ fire department station to create a robust dataset for spatial analysis <br>
   ● Digitize/ edit features and input data with the Beans.ai MapMaker app to produce accurate maps <br>
   ● Build an ArcGIS dashboard app to present data using graphs, tables, and an interactive web map <br>
-  ● Manage data, compute statistics, and create graphs with Python to develop a spatial regression model </p>  
+  ● Manage data, compute statistics, and create graphs with Python to develop a spatial regression model <br>
+  ● Construct PostgreSQL queries using CARTO to select demographic data and export to ArcGIS Pro </p>
 
 **Job gap due to the Coronavirus** | _May 2020 - May 2022_ <br>
 <p class='section tab'>
@@ -68,7 +69,7 @@ Long Beach, CA | _Jan 2015 - May 2015_
 **ESRI Training Certificates** <br>
 [ESRI Academy](https://www.esri.com/training/) Online | _Ongoing_
 <p class='section tab'>
-  ● Completed 11 ESRI web courses </p>
+  ● Completed 11 ESRI web courses totaling 32.2 hours of training using ESRI’s ArcGIS platform </p>
 <iframe width="100%" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <h2 class='section'>🎓 Education</h2>
