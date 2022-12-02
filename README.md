@@ -60,16 +60,16 @@ Long Beach, CA | _Jan 2015 - May 2015_
 ● Analyzing and interpreting data <br>
 ● Work independently and meeting deadlines <br>
 ● Written and oral communication <br>
-● ESRI ArcGIS: Desktop ArcMap, Pro, Online, Field Maps, Survey123 <br>
-● ESRI ArcGIS Online Apps: StoryMaps, Dashboards, Instant Apps, Web AppBuilder, Map Viewer, Experience Builder <br>
+● Esri ArcGIS: Desktop ArcMap, Pro, Online, Field Maps, Survey123 <br>
+● Esri ArcGIS Online Apps: StoryMaps, Dashboards, Instant Apps, Web AppBuilder, Map Viewer, Experience Builder <br>
 ● Programming: SQL, Python, ArcGIS Arcade, R, JavaScript, HTML/CSS <br>
 ● Microsoft Office: Word, Excel, PowerPoint, Access, Outlook </p>
 
 <h2 class='section'>📈 Certifications</h2>
-**ESRI Training Certificates** <br>
-[ESRI Academy](https://www.esri.com/training/) | Online | _Ongoing_
+**Esri Training Certificates** <br>
+[Esri Academy](https://www.esri.com/training/) | Online | _Ongoing_
 <p class='section tab'>
-  ● Completed 11 ESRI web courses totaling 32.2 hours of training using ESRI’s ArcGIS platform </p>
+  ● Completed 11 web courses totaling 32.2 hours of training using Esri’s ArcGIS platform </p>
 <iframe width="100%" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <h2 class='section'>🎓 Education</h2>
