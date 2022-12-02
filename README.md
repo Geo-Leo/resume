@@ -21,7 +21,7 @@ img {
 
 <h2 class='section'>💼 Work Experience</h2>
 **GIS Data Collector Intern** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
-South Pasadena, CA | _June 2022 - Present_ <br>
+South Pasadena, CA | _June 2022 - Dec 2022 <br>
 <p class='section tab'>
   ● Perform inspections of sub-address features (i.e. units, elevators, stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel and satellite maps to efficiently survey sites <br>
   ● Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data <br>
@@ -69,7 +69,7 @@ Long Beach, CA | _Jan 2015 - May 2015_
 **Esri Training Certificates** <br>
 [Esri Academy](https://www.esri.com/training/) | Online | _Ongoing_
 <p class='section tab'>
-  ● Completed 11 web courses totaling 32.2 hours of training using Esri’s ArcGIS platform </p>
+  ● Completed 13 web courses totaling 36.5 hours of training using Esri’s ArcGIS platform </p>
 <iframe width="100%" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <h2 class='section'>🎓 Education</h2>
