@@ -21,7 +21,7 @@ img {
 
 <h2 class='section'>💼 Work Experience</h2>
 **GIS Data Collector Intern** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
-South Pasadena, CA | _June 2022 - Dec 2022 <br>
+South Pasadena, CA | _June 2022 - Dec 2022_ <br>
 <p class='section tab'>
   ● Perform inspections of sub-address features (i.e. units, elevators, stairwells) at multi-unit housing sites, input data on a mobile device, and utilize parcel and satellite maps to efficiently survey sites <br>
   ● Create a Python script and build a Python/ ModelBuilder toolbox to automate the geoprocessing of data <br>
