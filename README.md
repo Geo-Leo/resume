@@ -30,9 +30,9 @@ South Pasadena, CA | _June 2022 - Dec 2022_ <br>
   <b><i>Data Analysis and Automation</i></b> <br>
   ● Created Python scripts and designed a ModelBuilder toolbox to automate the geoprocessing of data <br>
   ● Geocoded lists of site addresses, spatially joined parcel/ demographic data to field data, and calculated the distance to the nearest police/ fire department station to produce a robust dataset for data analysis <br>
-  ● Managed data, computed statistics, and generated graphs with Python to develop a regression model <br>
   ● Constructed SQL queries with BigQuery in CARTO to sort demographic data and export to ArcGIS Pro <br>
   <b><i>Data Visualization</i></b> <br>
+  ● Managed data, computed statistics, and generated graphs with Python to develop a regression model <br>
   ● Built an ArcGIS dashboard app to present data for management to monitor field work in real time </p>
 
 **Job gap due to the Coronavirus** | _May 2020 - May 2022_ <br>
