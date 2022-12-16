@@ -23,7 +23,7 @@ img {
 **GIS Data Collector Intern** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
 South Pasadena, CA | _June 2022 - Dec 2022_ <br>
 <p class='section tab'>
-  **<i>Field Data Collection</i>** <br>
+  <b><i>Field Data Collection</i><b> <br>
   ● Performed inspections of sub-address features (i.e. units, elevators, stairwells) at multi-unit housing sites, inputted data on a mobile device, and utilized parcel and satellite maps to efficiently survey sites <br>
   ● Built an ArcGIS Field Maps app with ArcGIS Online, utilized the app to collect field data, created a web app displaying the field data, and exported the data to Excel to track the completion of sites surveyed <br>
   ● Digitized/ edited features and inputted data with the Beans.ai MapMaker app to produce accurate maps <br>
