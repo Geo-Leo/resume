@@ -16,23 +16,23 @@ img {
 
 <h1 class='section'>Leobardo Chavez</h1>
 
-<h3><i>Reliable and results-oriented GIS Professional based in Rosemead, CA.</i></h3>
+<h3><i>Reliable and results-oriented GIS Professional based in Rosemead, CA</i></h3>
 [📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/)
 
 <h2 class='section'>💼 Work Experience</h2>
 **GIS Data Collector Intern** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
 South Pasadena, CA | _June 2022 - Dec 2022_ <br>
 <p class='section tab'>
-  ***Field Data Collection*** <br>
+  **_Field Data Collection_** <br>
   ● Performed inspections of sub-address features (i.e. units, elevators, stairwells) at multi-unit housing sites, inputted data on a mobile device, and utilized parcel and satellite maps to efficiently survey sites <br>
   ● Built an ArcGIS Field Maps app with ArcGIS Online, utilized the app to collect field data, created a web app displaying the field data, and exported the data to Excel to track the completion of sites surveyed <br>
   ● Digitized/ edited features and inputted data with the Beans.ai MapMaker app to produce accurate maps <br>
-  ***Data Analysis and Automation*** <br>
+  **_Data Analysis and Automation_** <br>
   ● Created Python scripts and designed a ModelBuilder toolbox to automate the geoprocessing of data <br>
   ● Geocoded lists of site addresses, spatially joined parcel/ demographic data to field data, and calculated the distance to the nearest police/ fire department station to produce a robust dataset for data analysis <br>
   ● Managed data, computed statistics, and generated graphs with Python to develop a regression model <br>
   ● Constructed SQL queries with BigQuery in CARTO to sort demographic data and export to ArcGIS Pro <br>
-  ***Data Visualization*** <br>
+  **_Data Visualization_** <br>
   ● Built an ArcGIS dashboard app to present data for management to monitor field work in real time </p>
 
 **Job gap due to the Coronavirus** | _May 2020 - May 2022_ <br>
