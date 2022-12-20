@@ -16,7 +16,7 @@ img {
 
 <h1 class='section'>Leobardo Chavez</h1>
 
-<h3><i>Reliable and results-oriented GIS professional based in the Los Angeles Metropolitan Area</i></h3>
+<h3><i>Reliable and results-oriented GIS professional based in the Los Angeles Metropolitan Area.</i></h3>
 [📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/)
 
 <h2 class='section'>💼 Work Experience</h2>
