@@ -69,7 +69,7 @@ Long Beach, CA | _Jan 2015 - May 2015_
 ● Written and oral communication <br>
 ● Esri ArcGIS: Desktop ArcMap, Pro, Online, Field Maps, Survey123 <br>
 ● Esri ArcGIS Online Apps: StoryMaps, Dashboards, Instant Apps, Web AppBuilder, Map Viewer, Experience Builder <br>
-● Programming: Python, ArcGIS Arcade, SQL, JavaScript, HTML/ CSS <br>
+● Programming: Python, ArcGIS Arcade, SQL, R, JavaScript, HTML/ CSS <br>
 ● Microsoft Office: Word, Excel, PowerPoint, Access, Outlook </p>
 
 <h2 class='section'>📈 Certifications</h2>
