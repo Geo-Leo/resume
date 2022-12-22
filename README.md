@@ -19,6 +19,18 @@ img {
 <h3><i>Reliable and results-oriented GIS professional based in the Los Angeles Metropolitan Area</i></h3>
 [📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/)
 
+<h2 class='section'>📈 Key Skills</h2> 
+<p class='section tab'> &emsp;
+● Automation ● Cartography ● Data Visualization ● Data Analysis ● Database Management ● Field Data <br> 
+Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Technical Assistance ● Web Mapping </p>
+
+<h2 class='section'>📋 Technical Skills</h2>
+<p class='section tab'> 
+● Esri ArcGIS: Desktop ArcMap, Pro, Online, Field Maps, Survey123 <br>
+● Esri ArcGIS Online Apps: StoryMaps, Dashboards, Instant Apps, Web AppBuilder, Map Viewer, Experience Builder <br>
+● Programming: Python, ArcPy/ ArcGIS API for Python, ArcGIS Arcade, SQL, R, JavaScript, HTML/ CSS <br>
+● Microsoft Office: Word, Excel, PowerPoint, Access, Outlook </p>
+
 <h2 class='section'>💼 Work Experience</h2>
 **GIS Data Collector Intern** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
 South Pasadena, CA | _June 2022 - Dec 2022_ <br>
@@ -61,19 +73,6 @@ Long Beach, CA | _Jan 2015 - May 2015_
   ● Provided technical assistance to clients on producing detailed maps with Tableau and ArcGIS Desktop ArcMap <br>
   <b><i>Data Analysis and Visualization</i></b> <br>
   ● Developed an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS Desktop ArcMap to join survey data with geographic features, and created US maps showing change in student library services </p>
-
-<h2 class='section'>📋 Skills</h2>
-<p class='section tab'> 
-● Analyzing and interpreting data <br>
-● Work independently and meeting deadlines <br>
-● Written and oral communication <br>
-● Esri ArcGIS: Desktop ArcMap, Pro, Online, Field Maps, Survey123 <br>
-● Esri ArcGIS Online Apps: StoryMaps, Dashboards, Instant Apps, Web AppBuilder, Map Viewer, Experience Builder <br>
-● Programming: Python, ArcGIS Arcade, SQL, R, JavaScript, HTML/ CSS <br>
-● Microsoft Office: Word, Excel, PowerPoint, Access, Outlook </p>
-
-<h2 class='section'>📈 Certifications</h2>
-
 
 <h2 class='section'>🎓 Education</h2>
 **Esri Training Certificates** <br>
