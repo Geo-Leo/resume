@@ -57,15 +57,13 @@ South Pasadena, CA | _June 2022 - Dec 2022_ <br>
 Alhambra, CA | _Oct 2018 - April 2020_ <br>
 <p class='section tab'>
   <b><i>Customer Service</i></b> <br>
-  ● Entered addresses into the LACDA Jurisdiction ArcGIS web app to help clients locate new rental units <br>
-  ● Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated tenant's portion of rent to determine eligibility for rental assistance programs </p>
+  ● Assisted clients find rental units and checked the jurisdiction of units with the LACDA ArcGIS web app </p>
 
 **Eligibility Worker II** | [County of Los Angeles, Department of Public Social Services](https://dpss.lacounty.gov/en.html) <br> 
 Los Angeles, CA | _Aug 2016 - Nov 2017_ <br>
 <p class='section tab'> 
   <b><i>Customer Service</i></b> <br>
-  ● Utilized the LA County Services Locator/ Enterprise GIS portal to refer clients for other county services <br>
-  ● Interviewed clients, collected household/ income data, inputted and maintained data in the client database, and calculated monthly benefits to determine eligibility for public assistance programs </p>
+  ● Referred clients for county services with the LA County Services Locator and Enterprise GIS portal </p>
 
 <h2 class='section'>📝 Volunteer Experience</h2>
 **Research Assistant** | [Dr. Lesley Farmer, CSULB College of Education](https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer) <br> 
