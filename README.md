@@ -20,7 +20,7 @@ img {
 [📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/)
 
 <h2 class='section'>📈 Key Skills</h2> 
-<p class='section tab'> &emsp;
+<p class='section tab'> &ensp;
 ● Automation ● Cartography ● Data Visualization ● Data Analysis ● Database Management ● Field Data <br> 
 Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Technical Assistance ● Web Mapping </p>
 
@@ -49,6 +49,7 @@ South Pasadena, CA | _June 2022 - Dec 2022_ <br>
   ● Managed data, computed statistics, and generated graphs with Python to develop a regression model <br>
   ● Designed an ArcGIS dashboard app for management to present data and monitor field work in real time </p>
 
+
 **Job gap due to the Coronavirus** | _May 2020 - May 2022_ <br>
 <p class='section tab'>
   ● Took courses in GIS and Computer Information Technology (CIT) </p>
@@ -71,8 +72,11 @@ Long Beach, CA | _Jan 2015 - May 2015_
 <p class='section tab'>
   <b><i>Technical Assistance</i></b> <br>
   ● Provided technical assistance to clients on producing detailed maps with Tableau and ArcGIS Desktop ArcMap <br>
+  
   <b><i>Data Analysis and Visualization</i></b> <br>
-  ● Developed an R script to clean data, utilized the Spatial Join analysis tool in ArcGIS Desktop ArcMap to join survey data with geographic features, and created US maps showing change in student library services </p>
+  ● Developed an R script to clean survey data, remove outliers, and compute descriptive statistics <br>
+  ● Joined data to geographic features with ArcGIS ArcMap to create US maps of student library services </p>
+
 
 <h2 class='section'>🎓 Education</h2>
 **Esri Training Certificates** <br>
