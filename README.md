@@ -16,8 +16,9 @@ img {
 
 <h1 class='section'>Leobardo Chavez</h1>
 
-<h3><i>Reliable and results-oriented GIS professional based in the Los Angeles Metropolitan Area</i></h3>
 [📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/)
+
+<h3><i> Aspiring GIS professional with 3 years of customer service experience. Looking to leverage multi-tasking skills as a GIS Technician. Has 7 months of GIS internship experience and 5 months of volunteer experience using Esri's ArcGIS platform to perform data collection, create maps, analyze spatial data, automate GIS workflows, and visualize data. Able to learn fast and adapt to changing circumstances. </i></h3>
 
 <h2 class='section'>📈 Key Skills</h2> 
 <p class='section tab'> &ensp;
