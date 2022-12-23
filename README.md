@@ -18,7 +18,7 @@ img {
 
 [📧 Email](mailto:chavezleobardo@hotmail.com) | [📌 GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/)
 
-<h3><i> Aspiring GIS professional with 3 years of customer service experience. Looking to leverage multi-tasking skills as a GIS Technician. Has 7 months of GIS internship experience and 5 months of volunteer experience using Esri's ArcGIS platform to perform data collection, create maps, analyze spatial data, automate GIS workflows, and visualize data. Able to learn fast and adapt to changing circumstances. </i></h3>
+<h3><i> Aspiring GIS professional with 3 years of customer service experience. Looking to leverage multi-tasking skills as a GIS Technician. Has 7 months of GIS internship experience and 5 months of volunteer experience using Esri's ArcGIS platform to perform data collection, create maps, analyze spatial data, and automate GIS workflows. Able to learn fast and adapt to changing circumstances. </i></h3>
 
 <h2 class='section'>📈 Key Skills</h2> 
 <p class='section tab'> &ensp;
@@ -59,7 +59,7 @@ South Pasadena, CA | _June 2022 - Dec 2022_ <br>
 Alhambra, CA | _Oct 2018 - April 2020_ <br>
 <p class='section tab'>
   <b><i>Customer Service</i></b> <br>
-  ● Assisted clients find rental units and checked the jurisdiction of units with the LACDA ArcGIS web app </p>
+  ● Assisted clients with locating rental units and checked unit jurisdiction with the LACDA ArcGIS web app </p>
 
 **Eligibility Worker II** | [County of Los Angeles, Department of Public Social Services](https://dpss.lacounty.gov/en.html) <br> 
 Los Angeles, CA | _Aug 2016 - Nov 2017_ <br>
@@ -84,7 +84,7 @@ Long Beach, CA | _Jan 2015 - May 2015_
 [Esri Academy](https://www.esri.com/training/) | Online | _Ongoing_
 <p class='section tab'>
   ● Completed 14 web courses totaling 37.5 hours of training using Esri’s ArcGIS platform </p>
-<iframe width="100%" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="90%" height="90%" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 **Associate of Science** in Applied Geographic Information Systems <br>
 [Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _Dec 2022_
