@@ -26,9 +26,10 @@ img {
   display: table;
   clear: both;}
 hr.solid {
+  height: 1px;
   background-color: red;
   border: 1px solid royalblue;
-  border-radius: 1px}
+  border-radius: 5px}
 </style>
 
 <h1 class='section'>Leobardo Chavez</h1>
