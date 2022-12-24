@@ -86,7 +86,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://en.wikipedia.org/wiki/COVID-19">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/archive/0/0d/20200408032558%21COVID-19_Icon.svg" alt="covid"/> </a> </p> 
+    <img src="covid.svg" alt="covid"/> </a> </p> 
   </div>
     <div class="column right">
     <p><b>Job gap due to the Coronavirus</b> | <i>May 2020 - May 2022</i> </p>
@@ -101,7 +101,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.lacda.org/">
-    <img src="https://pbs.twimg.com/profile_images/1130520769203589120/pbxJPKn__400x400.jpg" alt="lacda"/> </a> </p>  
+    <img src="lacda.jpg" alt="lacda"/> </a> </p>  
   </div>
   <div class="column right">
     <p><b>Section 8 Case Manager</b> @ <a href="https://www.lacda.org/"> Los Angeles County Development Authority</a> <br>
@@ -157,7 +157,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.esri.com/training/">
-    <img src="https://pbs.twimg.com/profile_images/1542256481201840128/g0qmJ2od_400x400.png" alt="esri"/> </a> </p>
+    <img src="esri.png" alt="esri"/> </a> </p>
   </div>
   <div class="column right">
     <p><b>Esri Training Certificates</b> <br> 
