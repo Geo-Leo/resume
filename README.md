@@ -26,9 +26,9 @@ img {
   display: table;
   clear: both;}
 hr.solid {
-  height: 1px;
+  height: 10px;
   background-color: black;
-  border: 1px solid cornflowerblue;
+  border: 1px solid black;
   border-radius: 5px}
 </style>
 
