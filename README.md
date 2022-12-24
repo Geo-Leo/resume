@@ -86,7 +86,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://en.wikipedia.org/wiki/COVID-19">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/archive/0/0d/20200408032558%21COVID-19_Icon.svg" alt="covid" style="width:60px; height:60px;"/> </a> </p> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/archive/0/0d/20200408032558%21COVID-19_Icon.svg" alt="covid"/> </a> </p> 
   </div>
     <div class="column right">
     <p><b>Job gap due to the Coronavirus</b> | <i>May 2020 - May 2022</i> </p>
@@ -101,7 +101,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.lacda.org/">
-    <img src="https://pbs.twimg.com/profile_images/1130520769203589120/pbxJPKn__400x400.jpg" alt="lacda" style="width:60px; height:60px;"/> </a> </p>  
+    <img src="https://pbs.twimg.com/profile_images/1130520769203589120/pbxJPKn__400x400.jpg" alt="lacda"/> </a> </p>  
   </div>
   <div class="column right">
     <p><b>Section 8 Case Manager</b> | <a href="https://www.lacda.org/"> Los Angeles County Development Authority</a> <br>
@@ -118,7 +118,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://dpss.lacounty.gov/en.html">
-    <img src="https://media.glassdoor.com/sqll/134799/los-angeles-department-of-public-social-services-squarelogo-1461748071582.png" alt="dpss" style="width:60px; height:60px;"/> </a> </p>
+    <img src="https://media.glassdoor.com/sqll/134799/los-angeles-department-of-public-social-services-squarelogo-1461748071582.png" alt="dpss"/> </a> </p>
   </div>
   <div class="column right">
     <p><b>Eligibility Worker II</b> | <a href="https://www.lacda.org/"> County of Los Angeles, Department of Public Social Services</a> <br>
@@ -135,7 +135,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer">
-    <img src="https://media.licdn.com/dms/image/C4E0BAQGFZyxYLK-HHQ/company-logo_200_200/0/1576609100943?e=2147483647&v=beta&t=F-mrSR_1V21xGZr_LkdzfSdrVkH5HDVVbemnJ96swqw" alt="csulb coe" style="width:50px; height:50px;"/> </a> </p> 
+    <img src="https://media.licdn.com/dms/image/C4E0BAQGFZyxYLK-HHQ/company-logo_200_200/0/1576609100943?e=2147483647&v=beta&t=F-mrSR_1V21xGZr_LkdzfSdrVkH5HDVVbemnJ96swqw" alt="csulb coe"/> </a> </p> 
   </div>
   <div class="column right">
     <p><b>Research Assistant</b> | <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer"> Dr. Lesley Farmer, CSULB College of Education</a> <br>
@@ -157,7 +157,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.esri.com/training/">
-    <img src="https://pbs.twimg.com/profile_images/1542256481201840128/g0qmJ2od_400x400.png" alt="esri" style="width:60px; height:60px;"/> </a> </p>
+    <img src="https://pbs.twimg.com/profile_images/1542256481201840128/g0qmJ2od_400x400.png" alt="esri"/> </a> </p>
   </div>
   <div class="column right">
     <p><b>Esri Training Certificates</b> | <a href="https://www.esri.com/training/"> Esri Academy</a> <br>
@@ -174,7 +174,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.riohondo.edu/">
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/27/Rio_hondo_College_logo.svg" alt="riohondo" style="width:60px; height:60px;"/> </a> </p> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/27/Rio_hondo_College_logo.svg" alt="riohondo"/> </a> </p> 
   </div>
   <div class="column right">
     <p><b>Associate of Science</b> in Applied Geographic Information Systems <br>
