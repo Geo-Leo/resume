@@ -57,16 +57,21 @@ South Pasadena, CA | _June 2022 - Dec 2022_ <br>
   ● Managed data, computed statistics, and generated graphs with Python to develop a regression model <br>
   ● Designed an ArcGIS dashboard app for management to present data and monitor field work in real time </p>
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/COVID-19_Icon.svg/2048px-COVID-19_Icon.svg.png
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/COVID-19">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/COVID-19_Icon.svg/2048px-COVID-19_Icon.svg.png" alt="covid" style="width:60px; height:60px;"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/0/0d/20200408032558%21COVID-19_Icon.svg" alt="covid" style="width:60px; height:60px;"/> 
   <br> </a>
 </p> 
 
 **Job gap due to the Coronavirus** | _May 2020 - May 2022_ <br>
 <p class='section tab'>
   ● Took courses in GIS and Computer Information Technology (CIT) </p>
+
+<p align="left">
+  <a href="https://www.lacda.org/">
+  <img src="https://pbs.twimg.com/profile_images/1130520769203589120/pbxJPKn__400x400.jpg" alt="lacda" style="width:60px; height:60px;"/> 
+  <br> </a>
+</p> 
 
 **Section 8 Case Manager** | [Los Angeles County Development Authority](https://www.lacda.org/) <br> 
 Alhambra, CA | _Oct 2018 - April 2020_ <br>
