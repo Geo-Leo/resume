@@ -1,7 +1,9 @@
 <style>
 img {
-  border-radius: 75%;
-  border: .5px solid gray;}
+  border-radius: 50%;
+  border: .5px solid gray;
+  vertical-align: top;
+}
 .section {
   border: 1px ridge gainsboro;
   background-color: lightskyblue;
