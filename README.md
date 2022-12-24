@@ -57,6 +57,12 @@ South Pasadena, CA | _June 2022 - Dec 2022_ <br>
   ● Managed data, computed statistics, and generated graphs with Python to develop a regression model <br>
   ● Designed an ArcGIS dashboard app for management to present data and monitor field work in real time </p>
 
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/COVID-19_Icon.svg/2048px-COVID-19_Icon.svg.png
+<p align="left">
+  <a href="https://en.wikipedia.org/wiki/COVID-19">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/COVID-19_Icon.svg/2048px-COVID-19_Icon.svg.png" alt="covid" style="width:60px; height:60px;"/> 
+  <br> </a>
+</p> 
 
 **Job gap due to the Coronavirus** | _May 2020 - May 2022_ <br>
 <p class='section tab'>
