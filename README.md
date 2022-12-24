@@ -30,8 +30,8 @@ img {
   clear: both;}
 hr.solid {
   height: 1px;
-  background-color: silver;
-  border: 1px solid silver;
+  background-color: cornflowerblue;
+  border: 1px solid cornflowerblue;
   border-radius: 5px}
 </style>
 
@@ -58,7 +58,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.beans.ai/">
-    <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100feet"/> </a> </p> 
+    <img src="onehundredfeet.png" alt="100feet"/></a> </p> 
   </div>
   <div class="column right">
     <p><b>GIS Data Collector Intern</b> @ <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> <br>
