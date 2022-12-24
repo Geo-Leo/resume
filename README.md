@@ -26,7 +26,8 @@ img {
   display: table;
   clear: both;}
 hr.solid {
-  border: 1px solid royalblue;}
+  color: royalblue
+  border: 1px solid gray;}
 </style>
 
 <h1 class='section'>Leobardo Chavez</h1>
