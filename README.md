@@ -174,7 +174,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.riohondo.edu/">
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/27/Rio_hondo_College_logo.svg" alt="riohondo"/> </a> </p> 
+    <img src="riohondo.svg" alt="riohondo"/> </a> </p> 
   </div>
   <div class="column right">
     <p><b>Associate of Science</b> in Applied Geographic Information Systems <br>
@@ -192,7 +192,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.ucla.edu/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_University_of_California_UCLA.svg/800px-The_University_of_California_UCLA.svg.png" alt="ucla"/> </a></p> 
+    <img src="ucla.png" alt="ucla"/> </a></p> 
   </div>
   <div class="column right">
     <p><b>Bachelor of Arts</b> in Political Science <br>
