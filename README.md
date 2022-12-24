@@ -31,7 +31,7 @@ hr {
     color: #bbb;
     height: 3px;
     width: 90%;
-    align: center;}
+    text-align: center;}
 </style>
 
 <h1 class='section'>Leobardo Chavez</h1>
