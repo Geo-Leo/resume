@@ -79,6 +79,11 @@ Alhambra, CA | _Oct 2018 - April 2020_ <br>
   <b><i>Customer Service</i></b> <br>
   ● Assisted clients with locating rental units and checked unit jurisdiction with the LACDA ArcGIS web app </p>
 
+<p align="left">
+  <a href="https://dpss.lacounty.gov/en.html">
+  <img src="https://media.glassdoor.com/sqll/134799/los-angeles-department-of-public-social-services-squarelogo-1461748071582.png" alt="dpss" style="width:60px; height:60px;"/> 
+  <br> </a>
+</p> 
 **Eligibility Worker II** | [County of Los Angeles, Department of Public Social Services](https://dpss.lacounty.gov/en.html) <br> 
 Los Angeles, CA | _Aug 2016 - Nov 2017_ <br>
 <p class='section tab'> 
