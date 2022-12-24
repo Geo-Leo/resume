@@ -50,12 +50,12 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
 <div class="row">
   <div class="column left">
     <p align="left">
-  <a href="https://www.beans.ai/">
-  <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100ft" style="width:60px; height:60px;"/> </a> </p> 
+    <a href="https://www.beans.ai/">
+    <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100ft" style="width:60px; height:60px;"/> </a> </p> 
   </div>
   <div class="column right">
-  <p><b>GIS Data Collector Intern</b> | <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> </p> 
-  <p>South Pasadena, CA | <i>June 2022 - Dec 2022</i> </p>
+    <p><b>GIS Data Collector Intern</b> | <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> <br>
+    South Pasadena, CA | <i>June 2022 - Dec 2022</i> </p>
   </div>
 </div>
 <p class='section tab'>
@@ -76,25 +76,29 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
 
 <div class="row">
   <div class="column left">
-  <p align="left">
-  <a href="https://en.wikipedia.org/wiki/COVID-19">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/0/0d/20200408032558%21COVID-19_Icon.svg" alt="covid" style="width:60px; height:60px;"/> </a> </p> 
+    <p align="left">
+    <a href="https://en.wikipedia.org/wiki/COVID-19">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/archive/0/0d/20200408032558%21COVID-19_Icon.svg" alt="covid" style="width:60px; height:60px;"/> </a> </p> 
   </div>
-  <div class="column right">
-  <p><b>Job gap due to the Coronavirus</b> | <i>May 2020 - May 2022</i> </p>
+    <div class="column right">
+    <p><b>Job gap due to the Coronavirus</b> | <i>May 2020 - May 2022</i> </p>
   </div>
 </div>
 <p class='section tab'>
   ● Took courses in GIS and Computer Information Technology (CIT) </p>
 
-<p align="left">
-  <a href="https://www.lacda.org/">
-  <img src="https://pbs.twimg.com/profile_images/1130520769203589120/pbxJPKn__400x400.jpg" alt="lacda" style="width:60px; height:60px;"/> 
-  <br> </a>
-</p> 
 
-**Section 8 Case Manager** | [Los Angeles County Development Authority](https://www.lacda.org/) <br> 
-Alhambra, CA | _Oct 2018 - April 2020_ <br>
+<div class="row">
+  <div class="column left">
+    <p align="left">
+    <a href="https://www.lacda.org/">
+    <img src="https://pbs.twimg.com/profile_images/1130520769203589120/pbxJPKn__400x400.jpg" alt="lacda" style="width:60px; height:60px;"/> </a> </p>  
+  </div>
+  <div class="column right">
+    <p><b>Section 8 Case Manager</b> | <a href="https://www.lacda.org/"> Los Angeles County Development Authority</a> <br>
+    Alhambra, CA | <i>Oct 2018 - April 2020</i> </p>
+  </div>
+</div>
 <p class='section tab'>
   <b><i>Customer Service</i></b> <br>
   ● Assisted clients with locating rental units and checked unit jurisdiction with the LACDA ArcGIS web app </p>
