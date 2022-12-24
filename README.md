@@ -28,8 +28,8 @@ img {
 hr.solid {
   height: 1px;
   background-color: red;
-  border: 1px solid royalblue;
-  border-radius: 5px}
+  border: 3px solid royalblue;
+  border-radius: 10px}
 </style>
 
 <h1 class='section'>Leobardo Chavez</h1>
