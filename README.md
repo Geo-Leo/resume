@@ -132,7 +132,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.csulb.edu/college-of-education">
-    <img src="https://media.licdn.com/dms/image/C4E0BAQGFZyxYLK-HHQ/company-logo_200_200/0/1576609100943?e=2147483647&v=beta&t=F-mrSR_1V21xGZr_LkdzfSdrVkH5HDVVbemnJ96swqw" alt="csulb coe" style="width:60px; height:60px;"/> </a> </p> 
+    <img src="https://media.licdn.com/dms/image/C4E0BAQGFZyxYLK-HHQ/company-logo_200_200/0/1576609100943?e=2147483647&v=beta&t=F-mrSR_1V21xGZr_LkdzfSdrVkH5HDVVbemnJ96swqw" alt="csulb coe" style="width:60px; height:70px;"/> </a> </p> 
   </div>
   <div class="column right">
     <p><b>Research Assistant</b> | <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer"> Dr. Lesley Farmer, CSULB College of Education</a> <br>
@@ -199,8 +199,3 @@ hr.solid {
 <p class='section tab'>
   ● Methods and Models Concentration: Applied data analysis in 4 Political Science and 5 Statistics courses </p>
 
-<p align="right">
-  <a href="https://github.com/geo-leo/">
-  <img src="https://avatars.githubusercontent.com/u/116207556?v=4" alt="github" style="width:50px; height:50px;"/> 
-  <br> <i>GitHub</i> </a>
-</p> 
