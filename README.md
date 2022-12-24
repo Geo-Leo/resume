@@ -5,7 +5,7 @@ img {
 .section {
   border: 1px ridge gainsboro;
   background-color: cornflowerblue;
-  color: black;
+  color: white;
   padding: 3px;} 
 .tab { 
   margin-left: 15px;
