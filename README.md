@@ -65,7 +65,7 @@ hr.solid {
     South Pasadena, CA | <i>June 2022 - Dec 2022</i> </p>
   </div>
 </div>
-<p class='section tab'>
+<p class='tab'>
   <b><i>Field Data Collection and Web Mapping</i></b> <br>
   ● Built a web map with ArcGIS Online and utilized the map to collect field data with ArcGIS Field Maps <br>
   ● Created a web app with ArcGIS Online to display data, export data, and monitor completion status <br>
@@ -92,7 +92,7 @@ hr.solid {
     <p><b>Job gap due to the Coronavirus</b> | <i>May 2020 - May 2022</i> </p>
   </div>
 </div>
-<p class='section tab'>
+<p class='tab'>
   ● Took courses in GIS and Computer Information Technology (CIT) </p>
 
 <hr class="solid">
@@ -108,7 +108,7 @@ hr.solid {
     Alhambra, CA | <i>Oct 2018 - April 2020</i> </p>
   </div>
 </div>
-<p class='section tab'>
+<p class='tab'>
   <b><i>Customer Service</i></b> <br>
   ● Assisted clients with locating rental units and checked unit jurisdiction with the LACDA ArcGIS web app </p>
 
@@ -125,7 +125,7 @@ hr.solid {
     Los Angeles, CA | <i>Aug 2016 - Nov 2017</i> </p>
   </div>
 </div>
-<p class='section tab'> 
+<p class='tab'> 
   <b><i>Customer Service</i></b> <br>
   ● Referred clients for county services with the LA County Services Locator and Enterprise GIS portal </p>
 
@@ -142,7 +142,7 @@ hr.solid {
     Long Beach, CA | <i>Jan 2015 - May 2015</i> </p>
   </div>
 </div>
-<p class='section tab'>
+<p class='tab'>
   <b><i>Technical Assistance</i></b> <br>
   ● Provided technical assistance to clients on producing detailed maps with Tableau and ArcGIS Desktop ArcMap <br>
   
@@ -164,7 +164,7 @@ hr.solid {
     Online | <i>Ongoing</i> </p>
   </div>
 </div>
-<p class='section tab'>
+<p class='tab'>
   ● Completed 14 web courses totaling 37.5 hours of training using Esri’s ArcGIS platform </p>
 <iframe width="100%" height="400" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -181,7 +181,7 @@ hr.solid {
     <a href="https://www.riohondo.edu/"> Rio Hondo College</a> | Whittier, CA | <i>Dec 2022</i> </p>
   </div>
 </div>
-<p class='section tab'>
+<p class='tab'>
   ● Environmental Specialization: Applied spatial analysis and programming in 7 GIS and 2 CIT courses <br> &emsp; &emsp;
     ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, GIS Internship, <br> &emsp; &emsp;
     Geospatial Programming, Intro to Programming, and Python Programming I</p>
@@ -199,6 +199,6 @@ hr.solid {
     <a href="https://www.ucla.edu/"> University of California, Los Angeles</a> | Los Angeles, CA | <i>2014</i> </p>
   </div>
 </div>
-<p class='section tab'>
+<p class='tab'>
   ● Methods and Models Concentration: Applied data analysis in 4 Political Science and 5 Statistics courses </p>
 
