@@ -15,11 +15,11 @@ img {
   /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
-  padding: 10px;}
+  padding: 5px;}
 .left {
-  width: 10%;}
+  width: 7%;}
 .right {
-  width: 90%;}
+  width: 93%;}
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -47,17 +47,15 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
 
 <h2 class='section'>💼 Work Experience</h2>
 
-
 <div class="row">
   <div class="column left">
     <p align="left">
   <a href="https://www.beans.ai/">
-  <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100ft" style="width:60px; height:60px;"/> 
-  <br> </a> </p> 
+  <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100ft" style="width:60px; height:60px;"/> </a> </p> 
   </div>
-  <div class="column right" style="background-color:#bbb;">
-<p><b>GIS Data Collector Intern</b> | <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> </p> 
-<p>South Pasadena, CA | <i>June 2022 - Dec 2022</i> </p>
+  <div class="column right">
+  <p><b>GIS Data Collector Intern</b> | <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> </p> 
+  <p>South Pasadena, CA | <i>June 2022 - Dec 2022</i> </p>
   </div>
 </div>
 
