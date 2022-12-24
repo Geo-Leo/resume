@@ -33,6 +33,13 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
 ● Microsoft Office: Word, Excel, PowerPoint, Access, Outlook </p>
 
 <h2 class='section'>💼 Work Experience</h2>
+
+<p align="left">
+  <a href="https://www.beans.ai/">
+  <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100ft" style="width:60px; height:60px;"/> 
+  <br> </a>
+</p> 
+
 **GIS Data Collector Intern** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
 South Pasadena, CA | _June 2022 - Dec 2022_ <br>
 <p class='section tab'>
@@ -68,6 +75,13 @@ Los Angeles, CA | _Aug 2016 - Nov 2017_ <br>
   ● Referred clients for county services with the LA County Services Locator and Enterprise GIS portal </p>
 
 <h2 class='section'>📝 Volunteer Experience</h2>
+
+<p align="left">
+  <a href="https://www.csulb.edu/college-of-education">
+  <img src="https://media.licdn.com/dms/image/C4E0BAQGFZyxYLK-HHQ/company-logo_200_200/0/1576609100943?e=2147483647&v=beta&t=F-mrSR_1V21xGZr_LkdzfSdrVkH5HDVVbemnJ96swqw" alt="csulb college of education" style="width:60px; height:60px;"/> 
+  <br> </a>
+</p> 
+
 **Research Assistant** | [Dr. Lesley Farmer, CSULB College of Education](https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer) <br> 
 Long Beach, CA | _Jan 2015 - May 2015_
 <p class='section tab'>
