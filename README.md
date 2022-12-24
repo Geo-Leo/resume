@@ -27,8 +27,8 @@ img {
   clear: both;}
 hr.solid {
   height: 1px;
-  background-color: black;
-  border: 1px solid black;
+  background-color: gray;
+  border: 1px solid gray;
   border-radius: 5px}
 </style>
 
@@ -56,7 +56,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   <div class="column left">
     <p align="left">
     <a href="https://www.beans.ai/">
-    <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100ft" style="width:60px; height:60px;"/> </a> </p> 
+    <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100feet" style="width:60px; height:60px;"/> </a> </p> 
   </div>
   <div class="column right">
     <p><b>GIS Data Collector Intern</b> | <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> <br>
