@@ -1,6 +1,6 @@
 <style>
 img {
-  border-radius: 50%;
+  border-radius: 75%;
   border: .5px solid gray;}
 .section {
   border: 1px ridge gainsboro;
@@ -12,7 +12,7 @@ img {
   border: 1px ridge lightgray;
   background-color: aliceblue;
   color: black;}
-  /* Create two unequal columns that floats next to each other */
+  /* Create two unequal columns that float next to each other */
 .column {
   float: left;
   padding: 0px;}
@@ -26,7 +26,7 @@ img {
   display: table;
   clear: both;}
 hr.solid {
-  border-top: 3px solid #bbb;}
+  border-top: 1px solid #bbb;}
 </style>
 
 <h1 class='section'>Leobardo Chavez</h1>
@@ -163,27 +163,37 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   ● Completed 14 web courses totaling 37.5 hours of training using Esri’s ArcGIS platform </p>
 <iframe width="100%" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<p align="left">
-  <a href="https://www.riohondo.edu/">
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/27/Rio_hondo_College_logo.svg" alt="riohondo" style="width:60px; height:60px;"/> 
-  <br> </a>
-</p> 
+<hr class="solid">
 
-**Associate of Science** in Applied Geographic Information Systems <br>
-[Rio Hondo College](https://www.riohondo.edu/) | Whittier, CA | _Dec 2022_
+<div class="row">
+  <div class="column left">
+    <p align="left">
+    <a href="https://www.riohondo.edu/">
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/27/Rio_hondo_College_logo.svg" alt="riohondo" style="width:60px; height:60px;"/> </a> </p> 
+  </div>
+  <div class="column right">
+    <p><b>Associate of Science</b> in Applied Geographic Information Systems <br>
+    <a href="https://www.riohondo.edu/"> Rio Hondo College</a> | Whittier, CA | <i>Dec 2022</i> </p>
+  </div>
+</div>
 <p class='section tab'>
   ● Environmental Specialization: Applied spatial analysis and programming in 7 GIS and 2 CIT courses <br> &emsp; &emsp;
     ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, GIS Internship, <br> &emsp; &emsp;
     Geospatial Programming, Intro to Programming, and Python Programming I</p>
 
-<p align="left">
-  <a href="https://www.ucla.edu/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_University_of_California_UCLA.svg/800px-The_University_of_California_UCLA.svg.png" alt="ucla" style="width:60px; height:60px;"/> 
-  <br> </a>
-</p> 
+<hr class="solid">
 
-**Bachelor of Arts** in Political Science <br>
-[University of California, Los Angeles (UCLA)](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
+<div class="row">
+  <div class="column left">
+    <p align="left">
+    <a href="https://www.ucla.edu/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_University_of_California_UCLA.svg/800px-The_University_of_California_UCLA.svg.png" alt="ucla" style="width:60px; height:60px;"/> </a></p> 
+  </div>
+  <div class="column right">
+    <p><b>Bachelor of Arts</b> in Political Science <br>
+    <a href="https://www.ucla.edu/"> University of California, Los Angeles</a> | Los Angeles, CA | <i>2014</i> </p>
+  </div>
+</div>
 <p class='section tab'>
   ● Methods and Models Concentration: Applied data analysis in 4 Political Science and 5 Statistics courses </p>
 
