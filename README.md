@@ -28,7 +28,7 @@ img {
 hr {
     border: none;
     background-color: #bbb;
-    height: 1px;
+    height: 0px;
     width: 100%;}
 hr.solid {
   border-top: 5px solid blue;
