@@ -25,13 +25,12 @@ img {
   content: "";
   display: table;
   clear: both;}
-hr.solid {
-  border-top: 3px solid #bbb;}
 hr {
     border: none;
     background-color: #bbb;
     color: #bbb;
-    height: 3px;}
+    height: 3px;
+    width: 90%;}
 </style>
 
 <h1 class='section'>Leobardo Chavez</h1>
@@ -80,7 +79,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   ● Managed data, computed statistics, and generated graphs with Python to develop a regression model <br>
   ● Designed an ArcGIS dashboard app for management to present data and monitor field work in real time </p>
 
-<hr class="solid">
+<hr>
 
 <div class="row">
   <div class="column left">
@@ -95,7 +94,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
 <p class='section tab'>
   ● Took courses in GIS and Computer Information Technology (CIT) </p>
 
-<hr class="solid">
+<hr>
 
 <div class="row">
   <div class="column left">
@@ -112,7 +111,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   <b><i>Customer Service</i></b> <br>
   ● Assisted clients with locating rental units and checked unit jurisdiction with the LACDA ArcGIS web app </p>
 
-<hr class="solid">
+<hr>
 
 <div class="row">
   <div class="column left">
