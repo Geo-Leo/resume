@@ -192,7 +192,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.ucla.edu/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_University_of_California_UCLA.svg/800px-The_University_of_California_UCLA.svg.png" alt="ucla" style="width:60px; height:60px;"/> </a></p> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_University_of_California_UCLA.svg/800px-The_University_of_California_UCLA.svg.png" alt="ucla"/> </a></p> 
   </div>
   <div class="column right">
     <p><b>Bachelor of Arts</b> in Political Science <br>
