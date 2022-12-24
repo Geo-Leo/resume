@@ -118,7 +118,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://dpss.lacounty.gov/en.html">
-    <img src="https://media.glassdoor.com/sqll/134799/los-angeles-department-of-public-social-services-squarelogo-1461748071582.png" alt="dpss"/> </a> </p>
+    <img src="dpss.png" alt="dpss"/> </a> </p>
   </div>
   <div class="column right">
     <p><b>Eligibility Worker II</b> @ <a href="https://www.lacda.org/"> County of Los Angeles, Department of Public Social Services</a> <br>
