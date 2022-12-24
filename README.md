@@ -17,9 +17,9 @@ img {
   float: left;
   padding: 10px;}
 .left {
-  width: 25%;}
+  width: 10%;}
 .right {
-  width: 75%;}
+  width: 90%;}
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -49,7 +49,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
 
 
 <div class="row">
-  <div class="column left" style="background-color:#aaa;">
+  <div class="column left">
     <p align="left">
   <a href="https://www.beans.ai/">
   <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100ft" style="width:60px; height:60px;"/> 
@@ -60,15 +60,6 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
 <p>South Pasadena, CA | <i>June 2022 - Dec 2022</i> </p>
   </div>
 </div>
-
-<p align="left">
-  <a href="https://www.beans.ai/">
-  <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100ft" style="width:60px; height:60px;"/> 
-  <br> </a>
-</p> 
-
-**GIS Data Collector Intern** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
-South Pasadena, CA | _June 2022 - Dec 2022_ <br>
 
 <p class='section tab'>
   <b><i>Field Data Collection and Web Mapping</i></b> <br>
