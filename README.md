@@ -103,13 +103,18 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   <b><i>Customer Service</i></b> <br>
   ● Assisted clients with locating rental units and checked unit jurisdiction with the LACDA ArcGIS web app </p>
 
-<p align="left">
-  <a href="https://dpss.lacounty.gov/en.html">
-  <img src="https://media.glassdoor.com/sqll/134799/los-angeles-department-of-public-social-services-squarelogo-1461748071582.png" alt="dpss" style="width:60px; height:60px;"/> 
-  <br> </a>
-</p> 
-**Eligibility Worker II** | [County of Los Angeles, Department of Public Social Services](https://dpss.lacounty.gov/en.html) <br> 
-Los Angeles, CA | _Aug 2016 - Nov 2017_ <br>
+
+<div class="row">
+  <div class="column left">
+    <p align="left">
+    <a href="https://dpss.lacounty.gov/en.html">
+    <img src="https://media.glassdoor.com/sqll/134799/los-angeles-department-of-public-social-services-squarelogo-1461748071582.png" alt="dpss" style="width:60px; height:60px;"/> </a> </p>
+  </div>
+  <div class="column right">
+    <p><b>Eligibility Worker II</b> | <a href="https://www.lacda.org/"> County of Los Angeles, Department of Public Social Services</a> <br>
+    Los Angeles, CA | <i>Aug 2016 - Nov 2017</i> </p>
+  </div>
+</div>
 <p class='section tab'> 
   <b><i>Customer Service</i></b> <br>
   ● Referred clients for county services with the LA County Services Locator and Enterprise GIS portal </p>
