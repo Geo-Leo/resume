@@ -28,9 +28,9 @@ img {
 hr {
     border: none;
     background-color: #bbb;
-    color: #bbb;
+    color: #4169e1;
     height: 3px;
-    width: 90%;
+    width: 100%;
     margin: auto;}
 </style>
 
@@ -80,7 +80,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   ● Managed data, computed statistics, and generated graphs with Python to develop a regression model <br>
   ● Designed an ArcGIS dashboard app for management to present data and monitor field work in real time </p>
 
-<hr style="margin-center:0">
+<hr>
 
 <div class="row">
   <div class="column left">
