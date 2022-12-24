@@ -61,7 +61,7 @@ hr.solid {
     <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100feet"/> </a> </p> 
   </div>
   <div class="column right">
-    <p><b>GIS Data Collector Intern</b> | <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> <br>
+    <p><b>GIS Data Collector Intern</b> @ <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> <br>
     South Pasadena, CA | <i>June 2022 - Dec 2022</i> </p>
   </div>
 </div>
@@ -104,7 +104,7 @@ hr.solid {
     <img src="https://pbs.twimg.com/profile_images/1130520769203589120/pbxJPKn__400x400.jpg" alt="lacda"/> </a> </p>  
   </div>
   <div class="column right">
-    <p><b>Section 8 Case Manager</b> | <a href="https://www.lacda.org/"> Los Angeles County Development Authority</a> <br>
+    <p><b>Section 8 Case Manager</b> @ <a href="https://www.lacda.org/"> Los Angeles County Development Authority</a> <br>
     Alhambra, CA | <i>Oct 2018 - April 2020</i> </p>
   </div>
 </div>
@@ -121,7 +121,7 @@ hr.solid {
     <img src="https://media.glassdoor.com/sqll/134799/los-angeles-department-of-public-social-services-squarelogo-1461748071582.png" alt="dpss"/> </a> </p>
   </div>
   <div class="column right">
-    <p><b>Eligibility Worker II</b> | <a href="https://www.lacda.org/"> County of Los Angeles, Department of Public Social Services</a> <br>
+    <p><b>Eligibility Worker II</b> @ <a href="https://www.lacda.org/"> County of Los Angeles, Department of Public Social Services</a> <br>
     Los Angeles, CA | <i>Aug 2016 - Nov 2017</i> </p>
   </div>
 </div>
@@ -138,7 +138,7 @@ hr.solid {
     <img src="https://media.licdn.com/dms/image/C4E0BAQGFZyxYLK-HHQ/company-logo_200_200/0/1576609100943?e=2147483647&v=beta&t=F-mrSR_1V21xGZr_LkdzfSdrVkH5HDVVbemnJ96swqw" alt="csulb coe"/> </a> </p> 
   </div>
   <div class="column right">
-    <p><b>Research Assistant</b> | <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer"> Dr. Lesley Farmer, CSULB College of Education</a> <br>
+    <p><b>Research Assistant</b> @ <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer"> Dr. Lesley Farmer, CSULB College of Education</a> <br>
     Long Beach, CA | <i>Jan 2015 - May 2015</i> </p>
   </div>
 </div>
@@ -160,8 +160,8 @@ hr.solid {
     <img src="https://pbs.twimg.com/profile_images/1542256481201840128/g0qmJ2od_400x400.png" alt="esri"/> </a> </p>
   </div>
   <div class="column right">
-    <p><b>Esri Training Certificates</b> | <a href="https://www.esri.com/training/"> Esri Academy</a> <br>
-    Online | <i>Ongoing</i> </p>
+    <p><b>Esri Training Certificates</b> <br> 
+    <a href="https://www.esri.com/training/"> Esri Academy</a> Online | <i>Ongoing</i> </p>
   </div>
 </div>
 <p class='tab'>
