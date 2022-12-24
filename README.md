@@ -29,7 +29,7 @@ hr.solid {
   height: 1px;
   background-color: royalblue;
   border: 3px solid royalblue;
-  border-radius: 30px}
+  border-radius: 10px}
 </style>
 
 <h1 class='section'>Leobardo Chavez</h1>
@@ -93,7 +93,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
 <p class='section tab'>
   ● Took courses in GIS and Computer Information Technology (CIT) </p>
 
-<hr>
+<hr class="solid">
 
 <div class="row">
   <div class="column left">
@@ -110,7 +110,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   <b><i>Customer Service</i></b> <br>
   ● Assisted clients with locating rental units and checked unit jurisdiction with the LACDA ArcGIS web app </p>
 
-<hr>
+<hr class="solid">
 
 <div class="row">
   <div class="column left">
@@ -166,7 +166,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   ● Completed 14 web courses totaling 37.5 hours of training using Esri’s ArcGIS platform </p>
 <iframe width="100%" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<hr>
+<hr class="solid">
 
 <div class="row">
   <div class="column left">
@@ -184,7 +184,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
     ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, GIS Internship, <br> &emsp; &emsp;
     Geospatial Programming, Intro to Programming, and Python Programming I</p>
 
-<hr>
+<hr class="solid">
 
 <div class="row">
   <div class="column left">
