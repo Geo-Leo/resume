@@ -39,18 +39,18 @@ hr.solid {
 <h1 class='section'>📄 Summary</h1>
 <h3 class='tab'><i> Results-oriented GIS graduate with 3 years of case management and customer service experience. Looking to utilize multi-tasking skills as a GIS Technician. Has 7 months of GIS internship experience and 5 months of volunteer experience using Esri's ArcGIS platform to perform data collection, create maps, analyze GIS data, and automate GIS workflows. Earned Associate of Science in Applied GIS. </i></h3>
 
-<h2 class='section'>📈 Key Skills</h2> 
+<h1 class='section'>📈 Key Skills</h1> 
 <p class='tab'>
 ● Automation ● Cartography ● Data Analysis ● Data Visualization ● Database Management ● Field Data Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Technical Assistance ● Web Mapping </p>
 
-<h2 class='section'>📋 Technical Skills</h2>
+<h1 class='section'>📋 Technical Skills</h1>
 <p class='tab'> 
 ● Esri ArcGIS: Desktop ArcMap, Pro, Online, Field Maps, Survey123 <br>
 ● Esri ArcGIS Online Apps: StoryMaps, Dashboards, Instant Apps, Web AppBuilder, Map Viewer, Experience Builder <br>
 ● Programming: Python, ArcPy/ ArcGIS API for Python, ArcGIS Arcade, SQL, R, JavaScript, HTML/ CSS <br>
 ● Microsoft Office: Word, Excel, PowerPoint, Access, Outlook </p>
 
-<h2 class='section'>💼 Work Experience</h2>
+<h1 class='section'>💼 Work Experience</h1>
 
 <div class="row">
   <div class="column left">
@@ -127,7 +127,7 @@ hr.solid {
   <b><i>Customer Service</i></b> <br>
   ● Referred clients for county services with the LA County Services Locator and Enterprise GIS portal </p>
 
-<h2 class='section'>📝 Volunteer Experience</h2>
+<h1 class='section'>📝 Volunteer Experience</h1>
 
 <div class="row">
   <div class="column left">
@@ -149,7 +149,7 @@ hr.solid {
   ● Joined data to geographic features with ArcGIS ArcMap to create US maps of student library services </p>
 
 
-<h2 class='section'>🎓 Education</h2>
+<h1 class='section'>🎓 Education</h1>
 
 <div class="row">
   <div class="column left">
@@ -199,4 +199,3 @@ hr.solid {
 </div>
 <p class='tab'>
   ● Methods and Models Concentration: Applied data analysis in 4 Political Science and 5 Statistics courses </p>
-
