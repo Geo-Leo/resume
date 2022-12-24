@@ -3,7 +3,8 @@ img {
   border-radius: 50%;
   border: .5px solid gray;
   vertical-align: top;
-}
+  width: 50px;
+  height: 50px;}
 .section {
   border: 1px ridge gainsboro;
   background-color: lightskyblue;
@@ -57,7 +58,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.beans.ai/">
-    <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100feet" style="width:60px; height:60px;"/> </a> </p> 
+    <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100feet"/> </a> </p> 
   </div>
   <div class="column right">
     <p><b>GIS Data Collector Intern</b> | <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> <br>
