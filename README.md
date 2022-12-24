@@ -3,8 +3,8 @@ img {
   border-radius: 50%;
   border: .5px solid gray;
   vertical-align: top;
-  width: 50px;
-  height: 50px;}
+  width: 55px;
+  height: 55px;}
 .section {
   border: 1px ridge gainsboro;
   background-color: lightskyblue;
