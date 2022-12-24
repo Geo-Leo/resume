@@ -27,8 +27,8 @@ img {
   clear: both;}
 hr {
     border: none;
-    background-color: #ccc;
-    color: #ccc;
+    background-color: blue;
+    color: blue;
     height: 2px;
     width: 100%;}
 </style>
