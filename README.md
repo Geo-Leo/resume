@@ -87,9 +87,9 @@ Long Beach, CA | _Jan 2015 - May 2015_
 <iframe width="100%" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <p align="left">
-  <a href="pic">
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/27/Rio_hondo_College_logo.svg" alt="riohondo" style="width:50px; height:50px;"/> 
-  <br> <i>Rio Hondo College</i> </a>
+  <a href="https://www.riohondo.edu/">
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/27/Rio_hondo_College_logo.svg" alt="riohondo" style="width:60px; height:60px;"/> 
+  <br> </a>
 </p> 
 
 **Associate of Science** in Applied Geographic Information Systems <br>
@@ -98,6 +98,12 @@ Long Beach, CA | _Jan 2015 - May 2015_
   ● Environmental Specialization: Applied spatial analysis and programming in 7 GIS and 2 CIT courses <br> &emsp; &emsp;
     ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, GIS Internship, <br> &emsp; &emsp;
     Geospatial Programming, Intro to Programming, and Python Programming I</p>
+
+<p align="left">
+  <a href="https://www.ucla.edu/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_University_of_California_UCLA.svg/800px-The_University_of_California_UCLA.svg.png" alt="ucla" style="width:60px; height:60px;"/> 
+  <br> </a>
+</p> 
 
 **Bachelor of Arts** in Political Science <br>
 [University of California, Los Angeles (UCLA)](https://www.ucla.edu/) | Los Angeles, CA | _2014_ 
