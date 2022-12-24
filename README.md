@@ -56,8 +56,8 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   <br> </a> </p> 
   </div>
   <div class="column right" style="background-color:#bbb;">
-**GIS Data Collector Intern** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
-South Pasadena, CA | _June 2022 - Dec 2022_ <br>
+<p><b>GIS Data Collector Intern</b> | <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> </p> 
+<p>South Pasadena, CA | <i>June 2022 - Dec 2022</i> </p>
   </div>
 </div>
 
