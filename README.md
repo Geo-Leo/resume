@@ -15,7 +15,7 @@ img {
   /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
-  padding: 5px;}
+  padding: 0px;}
 .left {
   width: 7%;}
 .right {
@@ -58,7 +58,6 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   <p>South Pasadena, CA | <i>June 2022 - Dec 2022</i> </p>
   </div>
 </div>
-
 <p class='section tab'>
   <b><i>Field Data Collection and Web Mapping</i></b> <br>
   ● Built a web map with ArcGIS Online and utilized the map to collect field data with ArcGIS Field Maps <br>
@@ -74,13 +73,17 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   ● Managed data, computed statistics, and generated graphs with Python to develop a regression model <br>
   ● Designed an ArcGIS dashboard app for management to present data and monitor field work in real time </p>
 
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/COVID-19">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/0/0d/20200408032558%21COVID-19_Icon.svg" alt="covid" style="width:60px; height:60px;"/> 
-  <br> </a>
-</p> 
 
-**Job gap due to the Coronavirus** | _May 2020 - May 2022_ <br>
+<div class="row">
+  <div class="column left">
+  <p align="left">
+  <a href="https://en.wikipedia.org/wiki/COVID-19">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/0/0d/20200408032558%21COVID-19_Icon.svg" alt="covid" style="width:60px; height:60px;"/> </a> </p> 
+  </div>
+  <div class="column right">
+  <p><b>Job gap due to the Coronavirus</b> | <i>May 2020 - May 2022</i> </p>
+  </div>
+</div>
 <p class='section tab'>
   ● Took courses in GIS and Computer Information Technology (CIT) </p>
 
