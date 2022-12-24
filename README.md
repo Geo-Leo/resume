@@ -26,7 +26,7 @@ img {
   display: table;
   clear: both;}
 hr.solid {
-  height: 10px;
+  height: 1px;
   background-color: black;
   border: 1px solid black;
   border-radius: 5px}
