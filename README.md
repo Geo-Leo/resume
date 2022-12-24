@@ -139,8 +139,18 @@ Long Beach, CA | _Jan 2015 - May 2015_
 
 
 <h2 class='section'>🎓 Education</h2>
-**Esri Training Certificates** <br>
-[Esri Academy](https://www.esri.com/training/) | Online | _Ongoing_
+
+<div class="row">
+  <div class="column left">
+    <p align="left">
+    <a href="https://www.esri.com/training/">
+    <img src="https://pbs.twimg.com/profile_images/1542256481201840128/g0qmJ2od_400x400.png" alt="esri" style="width:60px; height:60px;"/> </a> </p>
+  </div>
+  <div class="column right">
+    <p><b>Esri Training Certificates</b> | <a href="https://www.esri.com/training/"> Esri Academy</a> <br>
+    Online | <i>Ongoing</i> </p>
+  </div>
+</div>
 <p class='section tab'>
   ● Completed 14 web courses totaling 37.5 hours of training using Esri’s ArcGIS platform </p>
 <iframe width="100%" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
