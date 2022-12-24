@@ -26,7 +26,7 @@ img {
   display: table;
   clear: both;}
 hr.solid {
-  border-top: 1px solid #bbb;}
+  border-top: 3px solid #bbb;}
 </style>
 
 <h1 class='section'>Leobardo Chavez</h1>
@@ -181,7 +181,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
     ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, GIS Internship, <br> &emsp; &emsp;
     Geospatial Programming, Intro to Programming, and Python Programming I</p>
 
-<hr class="solid">
+<hr class="solid" noshade>
 
 <div class="row">
   <div class="column left">
