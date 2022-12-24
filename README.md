@@ -25,14 +25,10 @@ img {
   content: "";
   display: table;
   clear: both;}
-hr {
-    border: none;
-    background-color: #bbb;
-    height: 0px;
-    width: 100%;}
+
 hr.solid {
-  border-top: 5px solid blue;
-}
+  border: 0
+  border-top: 3px solid blue;}
 </style>
 
 <h1 class='section'>Leobardo Chavez</h1>
