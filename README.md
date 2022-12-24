@@ -28,7 +28,6 @@ img {
 hr {
     border: none;
     background-color: blue;
-    color: blue;
     height: 2px;
     width: 100%;}
 </style>
