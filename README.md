@@ -3,13 +3,13 @@ img {
   border-radius: 50%;
   border: .5px solid gray;
   vertical-align: top;
-  width: 55px;
-  height: 55px;}
+  width: 57.5px;
+  height: 57.5px;}
 .section {
   border: 1px ridge gainsboro;
-  background-color: lightskyblue;
+  background: linear-gradient(to bottom, CornFlowerBlue, AliceBlue);
   color: black;
-  padding: 3px;} 
+  padding: 3px;}  
 .tab { 
   margin-left: 15px;
   border: 1px ridge lightgray;
