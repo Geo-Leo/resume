@@ -27,9 +27,12 @@ img {
   clear: both;}
 hr {
     border: none;
-    background-color: blue;
-    height: 2px;
+    background-color: #bbb;
+    height: 1px;
     width: 100%;}
+hr.solid {
+  border-top: 1px solid blue;
+}
 </style>
 
 <h1 class='section'>Leobardo Chavez</h1>
@@ -78,7 +81,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   ● Managed data, computed statistics, and generated graphs with Python to develop a regression model <br>
   ● Designed an ArcGIS dashboard app for management to present data and monitor field work in real time </p>
 
-<hr>
+<hr class="solid">
 
 <div class="row">
   <div class="column left">
