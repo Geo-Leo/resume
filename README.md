@@ -42,11 +42,11 @@ hr.solid {
 <h3><i> Results-oriented GIS graduate with 3 years of case management and customer service experience. Looking to utilize multi-tasking skills as a GIS Technician. Has 7 months of GIS internship experience and 5 months of volunteer experience using Esri's ArcGIS platform to perform data collection, create maps, analyze GIS data, and automate GIS workflows. Earned Associate of Science in Applied GIS. </i></h3>
 
 <h2 class='section'>📈 Key Skills</h2> 
-<p class='section tab'>
+<p class='tab'>
 ● Automation ● Cartography ● Data Visualization ● Data Analysis ● Database Management ● Field Data Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Technical Assistance ● Web Mapping </p>
 
 <h2 class='section'>📋 Technical Skills</h2>
-<p class='section tab'> 
+<p class='tab'> 
 ● Esri ArcGIS: Desktop ArcMap, Pro, Online, Field Maps, Survey123 <br>
 ● Esri ArcGIS Online Apps: StoryMaps, Dashboards, Instant Apps, Web AppBuilder, Map Viewer, Experience Builder <br>
 ● Programming: Python, ArcPy/ ArcGIS API for Python, ArcGIS Arcade, SQL, R, JavaScript, HTML/ CSS <br>
