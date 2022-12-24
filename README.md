@@ -28,7 +28,7 @@ img {
 hr.solid {
   height: 1px;
   background-color: cornflowerblue;
-  border: 3px solid cornflowerblue;
+  border: 2px solid cornflowerblue;
   border-radius: 5px}
 </style>
 
