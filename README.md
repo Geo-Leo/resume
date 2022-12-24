@@ -27,9 +27,9 @@ img {
   clear: both;}
 hr.solid {
   height: 1px;
-  background-color: royalblue;
-  border: 3px solid royalblue;
-  border-radius: 10px}
+  background-color: cornflowerblue;
+  border: 3px solid cornflowerblue;
+  border-radius: 5px}
 </style>
 
 <h1 class='section'>Leobardo Chavez</h1>
