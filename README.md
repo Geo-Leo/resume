@@ -27,8 +27,8 @@ img {
   clear: both;}
 hr {
     border: none;
-    background-color: #4169e1;
-    color: #4169e1;
+    background-color: royalblue;
+    color: royalblue;
     height: 3px;
     width: 100%;
     margin: auto;}
