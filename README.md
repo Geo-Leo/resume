@@ -7,7 +7,7 @@ img {
   height: 57.5px;}
 .section {
   border: 1px ridge gainsboro;
-  background: linear-gradient(to bottom, CornFlowerBlue, AliceBlue, CornFlowerBlue);
+  background: linear-gradient(to right, AliceBlue, CornFlowerBlue);
   color: black;
   padding: 3px;}  
 .tab { 
