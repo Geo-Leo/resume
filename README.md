@@ -80,7 +80,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   ● Managed data, computed statistics, and generated graphs with Python to develop a regression model <br>
   ● Designed an ArcGIS dashboard app for management to present data and monitor field work in real time </p>
 
-<hr align="center"/>
+<hr align="center">
 
 <div class="row">
   <div class="column left">
