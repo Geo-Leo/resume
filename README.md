@@ -31,7 +31,7 @@ hr {
     height: 1px;
     width: 100%;}
 hr.solid {
-  border-top: 1px solid blue;
+  border-top: 5px solid blue;
 }
 </style>
 
