@@ -4,7 +4,7 @@ img {
   border: .5px solid gray;}
 .section {
   border: 1px ridge gainsboro;
-  background-color: paleturquoise;
+  background-color: lightskyblue;
   color: black;
   padding: 3px;} 
 .tab { 
