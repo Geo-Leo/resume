@@ -163,7 +163,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
   ● Completed 14 web courses totaling 37.5 hours of training using Esri’s ArcGIS platform </p>
 <iframe width="100%" height="450" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<hr class="solid">
+<hr class="solid" noshade="">
 
 <div class="row">
   <div class="column left">
@@ -181,7 +181,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
     ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, GIS Internship, <br> &emsp; &emsp;
     Geospatial Programming, Intro to Programming, and Python Programming I</p>
 
-<hr class="solid" noshade>
+<hr class="solid" noshade="">
 
 <div class="row">
   <div class="column left">
