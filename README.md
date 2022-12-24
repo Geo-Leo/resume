@@ -121,14 +121,17 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
 
 <h2 class='section'>📝 Volunteer Experience</h2>
 
-<p align="left">
-  <a href="https://www.csulb.edu/college-of-education">
-  <img src="https://media.licdn.com/dms/image/C4E0BAQGFZyxYLK-HHQ/company-logo_200_200/0/1576609100943?e=2147483647&v=beta&t=F-mrSR_1V21xGZr_LkdzfSdrVkH5HDVVbemnJ96swqw" alt="csulb college of education" style="width:60px; height:60px;"/> 
-  <br> </a>
-</p> 
-
-**Research Assistant** | [Dr. Lesley Farmer, CSULB College of Education](https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer) <br> 
-Long Beach, CA | _Jan 2015 - May 2015_
+<div class="row">
+  <div class="column left">
+    <p align="left">
+    <a href="https://www.csulb.edu/college-of-education">
+    <img src="https://media.licdn.com/dms/image/C4E0BAQGFZyxYLK-HHQ/company-logo_200_200/0/1576609100943?e=2147483647&v=beta&t=F-mrSR_1V21xGZr_LkdzfSdrVkH5HDVVbemnJ96swqw" alt="csulb coe" style="width:60px; height:60px;"/> </a> </p> 
+  </div>
+  <div class="column right">
+    <p><b>Research Assistant</b> | <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer"> Dr. Lesley Farmer, CSULB College of Education</a> <br>
+    Long Beach, CA | <i>Jan 2015 - May 2015</i> </p>
+  </div>
+</div>
 <p class='section tab'>
   <b><i>Technical Assistance</i></b> <br>
   ● Provided technical assistance to clients on producing detailed maps with Tableau and ArcGIS Desktop ArcMap <br>
