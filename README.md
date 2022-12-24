@@ -12,6 +12,19 @@ img {
   border: 1px ridge lightgray;
   background-color: aliceblue;
   color: black;}
+  /* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;}
+.left {
+  width: 25%;}
+.right {
+  width: 75%;}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;}
 </style>
 
 <h1 class='section'>Leobardo Chavez</h1>
@@ -34,6 +47,20 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
 
 <h2 class='section'>💼 Work Experience</h2>
 
+
+<div class="row">
+  <div class="column left" style="background-color:#aaa;">
+    <p align="left">
+  <a href="https://www.beans.ai/">
+  <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100ft" style="width:60px; height:60px;"/> 
+  <br> </a> </p> 
+  </div>
+  <div class="column right" style="background-color:#bbb;">
+**GIS Data Collector Intern** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
+South Pasadena, CA | _June 2022 - Dec 2022_ <br>
+  </div>
+</div>
+
 <p align="left">
   <a href="https://www.beans.ai/">
   <img src="https://d25hn4jiqx5f7l.cloudfront.net/companies/logos/original/one-hundred-feet-inc_1534392409.png?1534392409" alt="100ft" style="width:60px; height:60px;"/> 
@@ -42,6 +69,7 @@ Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Tech
 
 **GIS Data Collector Intern** | [One Hundred Feet Inc.](https://www.beans.ai/) <br> 
 South Pasadena, CA | _June 2022 - Dec 2022_ <br>
+
 <p class='section tab'>
   <b><i>Field Data Collection and Web Mapping</i></b> <br>
   ● Built a web map with ArcGIS Online and utilized the map to collect field data with ArcGIS Field Maps <br>
