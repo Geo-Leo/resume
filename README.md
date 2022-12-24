@@ -25,9 +25,12 @@ img {
   content: "";
   display: table;
   clear: both;}
-
+hr {
+    border: 0;
+    background-color: #bbb;
+    height: 0px;
+    width: 100%;}
 hr.solid {
-  border: 0
   border-top: 3px solid blue;}
 </style>
 
