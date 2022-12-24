@@ -43,7 +43,7 @@ hr.solid {
 
 <h2 class='section'>📈 Key Skills</h2> 
 <p class='tab'>
-● Automation ● Cartography ● Data Visualization ● Data Analysis ● Database Management ● Field Data Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Technical Assistance ● Web Mapping </p>
+● Automation ● Cartography ● Data Analysis ● Data Visualization ● Database Management ● Field Data Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Technical Assistance ● Web Mapping </p>
 
 <h2 class='section'>📋 Technical Skills</h2>
 <p class='tab'> 
