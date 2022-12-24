@@ -133,8 +133,8 @@ hr.solid {
 <div class="row">
   <div class="column left">
     <p align="left">
-    <a href="https://www.csulb.edu/college-of-education">
-    <img src="https://media.licdn.com/dms/image/C4E0BAQGFZyxYLK-HHQ/company-logo_200_200/0/1576609100943?e=2147483647&v=beta&t=F-mrSR_1V21xGZr_LkdzfSdrVkH5HDVVbemnJ96swqw" alt="csulb coe" style="width:60px; height:70px;"/> </a> </p> 
+    <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer">
+    <img src="https://media.licdn.com/dms/image/C4E0BAQGFZyxYLK-HHQ/company-logo_200_200/0/1576609100943?e=2147483647&v=beta&t=F-mrSR_1V21xGZr_LkdzfSdrVkH5HDVVbemnJ96swqw" alt="csulb coe" style="width:50px; height:50px;"/> </a> </p> 
   </div>
   <div class="column right">
     <p><b>Research Assistant</b> | <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer"> Dr. Lesley Farmer, CSULB College of Education</a> <br>
