@@ -161,7 +161,7 @@ hr.solid {
   </div>
   <div class="column right">
     <p><b>Esri Training Certificates</b> <br> 
-    <a href="https://www.esri.com/training/"> Esri Academy</a> Online | <i>Ongoing</i> </p>
+    <a href="https://www.esri.com/training/"> Esri Academy</a> | Online | <i>Ongoing</i> </p>
   </div>
 </div>
 <p class='tab'>
