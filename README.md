@@ -27,11 +27,10 @@ img {
   clear: both;}
 hr {
     border: none;
-    background-color: royalblue;
-    color: royalblue;
-    height: 3px;
-    width: 100%;
-    margin: auto;}
+    background-color: #ccc;
+    color: #ccc;
+    height: 2px;
+    width: 100%;}
 </style>
 
 <h1 class='section'>Leobardo Chavez</h1>
