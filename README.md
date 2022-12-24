@@ -135,7 +135,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer">
-    <img src="https://media.licdn.com/dms/image/C4E0BAQGFZyxYLK-HHQ/company-logo_200_200/0/1576609100943?e=2147483647&v=beta&t=F-mrSR_1V21xGZr_LkdzfSdrVkH5HDVVbemnJ96swqw" alt="csulb coe"/> </a> </p> 
+    <img src="https://raw.githubusercontent.com/Geo-Leo/resume/main/long%20beach2.png?token=GHSAT0AAAAAAB4VUXOHVMF5653TSB3GIPZOY5HAV7A" alt="csulb coe"/> </a> </p> 
   </div>
   <div class="column right">
     <p><b>Research Assistant</b> @ <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer"> Dr. Lesley Farmer, CSULB College of Education</a> <br>
