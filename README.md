@@ -30,8 +30,8 @@ img {
   clear: both;}
 hr.solid {
   height: 1px;
-  background-color: gray;
-  border: 1px solid gray;
+  background-color: gainsboro;
+  border: 1px solid gainsboro;
   border-radius: 5px}
 </style>
 
