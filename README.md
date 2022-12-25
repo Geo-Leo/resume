@@ -200,7 +200,7 @@ hr.solid {
   </div>
   <div class="column right">
     <p><b>Bachelor of Arts</b> in Political Science <br>
-    <a href="https://www.ucla.edu/"> University of California, Los Angeles</a> | Los Angeles, CA | <i>2014</i> </p>
+    <a href="https://www.ucla.edu/"> University of California, Los Angeles (UCLA)</a> | Los Angeles, CA | <i>2014</i> </p>
   </div>
 </div>
 <p class='tab'>
