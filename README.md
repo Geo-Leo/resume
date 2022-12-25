@@ -36,8 +36,8 @@ img {
   border-radius: 50%;}
 hr.solid {
   height: 1px;
-  background-color: cornflowerblue;
-  border: 1px solid cornflowerblue;
+  background-color: gray;
+  border: 1px solid gray;
   border-radius: 5px}
 </style>
 [![email](/email.svg) Email](mailto:chavezleobardo@hotmail.com) | [![gis](/map.svg) GIS portfolio](https://chavezleobardo.wixsite.com/portfolio/) | [![github](/github.svg) GitHub](https://github.com/geo-leo/)
