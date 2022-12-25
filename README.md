@@ -155,7 +155,7 @@ hr.solid {
   ● Joined data to geographic features with ArcGIS ArcMap to create US maps of student library services </p>
 
 
-<h1 class='section'>🎓 Education</h1>
+<h1 class='section'>📓 Training</h1>
 
 <div class="row">
   <div class="column left">
@@ -172,7 +172,8 @@ hr.solid {
   ● Completed 14 web courses totaling 37.5 hours of training using Esri’s ArcGIS platform </p>
 <iframe width="100%" height="350" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<hr class="solid">
+
+<h1 class='section'>🎓 Education</h1>
 
 <div class="row">
   <div class="column left">
