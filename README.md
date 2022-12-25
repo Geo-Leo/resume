@@ -1,8 +1,5 @@
 <style>
 img {
-  border-radius: 50%;
-  border: .5px solid gray;
-  vertical-align: top;
   width: 25px;
   height: 25px;}
 .section {
@@ -29,6 +26,7 @@ img {
   display: table;
   clear: both;}
 .avatar {
+  border: .5px solid gray;
   vertical-align: middle;
   width: 57.5px;
   height: 57.5px;
@@ -39,7 +37,7 @@ hr.solid {
   border: 1px solid cornflowerblue;
   border-radius: 5px}
 </style>
-[![email](https://static.thenounproject.com/png/3039394-200.png) Email](mailto:chavezleobardo@hotmail.com) | [![gis](https://static.thenounproject.com/png/1748051-200.png) GIS Portfolio](https://chavezleobardo.wixsite.com/portfolio/) | [![github](https://static.thenounproject.com/png/4289652-200.png) GitHub](https://github.com/geo-leo/)
+[![email](email.svg) Email](mailto:chavezleobardo@hotmail.com) | [![gis](map.svg) GIS Portfolio](https://chavezleobardo.wixsite.com/portfolio/) | [![github](github.svg) GitHub](https://github.com/geo-leo/)
 
 <h1 class='section'>🌐 Summary</h1>
 <h3 class='tab'> Results-oriented GIS graduate with 3 years of case management and customer service experience. Looking to utilize multi-tasking skills as a GIS Technician. Has 7 months of GIS internship experience and 5 months of volunteer experience using Esri's ArcGIS platform to perform data collection, create maps, analyze GIS data, and automate GIS workflows. Earned Associate of Science in Applied GIS. </h3>
