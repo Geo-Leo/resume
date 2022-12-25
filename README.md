@@ -37,7 +37,7 @@ hr.solid {
   border: 1px solid cornflowerblue;
   border-radius: 5px}
 </style>
-[![email](https://geo-leo.github.io/resume/email.svg) Email](mailto:chavezleobardo@hotmail.com) | [![gis](https://geo-leo.github.io/resume/map.svg) GIS Portfolio](https://chavezleobardo.wixsite.com/portfolio/) | [![github](https://geo-leo.github.io/resume/github.svg) GitHub](https://github.com/geo-leo/)
+[![email](/email.svg) Email](mailto:chavezleobardo@hotmail.com) | [![gis](/map.svg) GIS Portfolio](https://chavezleobardo.wixsite.com/portfolio/) | [![github](/github.svg) GitHub](https://github.com/geo-leo/)
 
 <h1 class='section'>🌐 Summary</h1>
 <h3 class='tab'> Results-oriented GIS graduate with 3 years of case management and customer service experience. Looking to utilize multi-tasking skills as a GIS Technician. Has 7 months of GIS internship experience and 5 months of volunteer experience using Esri's ArcGIS platform to perform data collection, create maps, analyze GIS data, and automate GIS workflows. Earned Associate of Science in Applied GIS. </h3>
