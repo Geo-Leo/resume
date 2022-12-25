@@ -89,7 +89,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://en.wikipedia.org/wiki/COVID-19">
-    <img src="covid.svg" alt="covid"/> </a> </p> 
+    <img src="covid.svg" alt="covid" class="avatar"/> </a> </p> 
   </div>
     <div class="column right">
     <p><b>Job gap due to the Coronavirus</b> | <i>May 2020 - May 2022</i> </p>
@@ -104,7 +104,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.lacda.org/">
-    <img src="lacda.jpg" alt="lacda"/> </a> </p>  
+    <img src="lacda.jpg" alt="lacda" class="avatar"/> </a> </p>  
   </div>
   <div class="column right">
     <p><b>Section 8 Case Manager</b> @ <a href="https://www.lacda.org/"> Los Angeles County Development Authority</a> <br>
@@ -121,7 +121,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://dpss.lacounty.gov/en.html">
-    <img src="dpss.png" alt="dpss"/> </a> </p>
+    <img src="dpss.png" alt="dpss" class="avatar"/> </a> </p>
   </div>
   <div class="column right">
     <p><b>Eligibility Worker II</b> @ <a href="https://www.lacda.org/"> County of Los Angeles, Department of Public Social Services</a> <br>
@@ -138,7 +138,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer">
-    <img src="long%20beach2.png" alt="csulb coe"/> </a> </p> 
+    <img src="long%20beach2.png" alt="csulb coe" class="avatar"/> </a> </p> 
   </div>
   <div class="column right">
     <p><b>Research Assistant</b> @ <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer"> Dr. Lesley Farmer, CSULB College of Education</a> <br>
@@ -160,7 +160,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.esri.com/training/">
-    <img src="esri.png" alt="esri"/> </a> </p>
+    <img src="esri.png" alt="esri" class="avatar"/> </a> </p>
   </div>
   <div class="column right">
     <p><b>Esri Training Certificates</b> <br> 
@@ -177,7 +177,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.riohondo.edu/">
-    <img src="riohondo.svg" alt="riohondo"/> </a> </p> 
+    <img src="riohondo.svg" alt="riohondo" class="avatar"/> </a> </p> 
   </div>
   <div class="column right">
     <p><b>Associate of Science</b> in Applied Geographic Information Systems <br>
@@ -195,7 +195,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
     <a href="https://www.ucla.edu/">
-    <img src="ucla.png" alt="ucla"/> </a></p> 
+    <img src="ucla.png" alt="ucla" class="avatar"/> </a></p> 
   </div>
   <div class="column right">
     <p><b>Bachelor of Arts</b> in Political Science <br>
