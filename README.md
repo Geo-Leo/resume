@@ -1,7 +1,10 @@
 <style>
 img {
-  width: 25px;
-  height: 25px;}
+  border: .5px solid gray;
+  vertical-align: bottom;
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;}
 .section {
   border: 1px ridge gainsboro;
   background: linear-gradient(to bottom right, lightblue, lightblue, cornflowerblue, cornflowerblue);
