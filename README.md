@@ -114,7 +114,9 @@ hr.solid {
 </div>
 <p class='tab'>
   <b><i>Customer Service</i></b> <br>
-  ● Assisted clients with locating rental units and checked unit jurisdiction with the LACDA ArcGIS web app </p>
+  ● Assisted clients with locating rental units and checked unit jurisdiction with the LACDA ArcGIS web app <br>
+  <b><i>Case Management</i></b> <br>
+  ● Efficiently managed an annual caseload of 350 families while processing assignments by deadlines </p>
 
 <hr class="solid">
 
@@ -131,7 +133,9 @@ hr.solid {
 </div>
 <p class='tab'> 
   <b><i>Customer Service</i></b> <br>
-  ● Referred clients for county services with the LA County Services Locator and Enterprise GIS portal </p>
+  ● Referred clients for county services with the LA County Services Locator and Enterprise GIS portal <br>
+  <b><i>Case Management</i></b> <br>
+  ● Efficiently managed an annual caseload of 600 households while processing cases by deadlines </p>
 
 <h1 class='section'>📝 Volunteer Experience</h1>
 
