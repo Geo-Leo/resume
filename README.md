@@ -1,7 +1,7 @@
 <style>
 img {
   border: .5px solid gray;
-  vertical-align: bottom;
+  vertical-align: middle;
   border-radius: 50%;
   width: 26px;
   height: 26px;}
