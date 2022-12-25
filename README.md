@@ -1,6 +1,6 @@
 <style>
 img {
-  border: .5px solid gray;
+  border: .5px solid black;
   vertical-align: middle;
   border-radius: 50%;
   width: 26px;
