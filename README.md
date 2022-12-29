@@ -43,7 +43,7 @@ hr.solid {
 [![email](/email.svg) Email](mailto:chavezleobardo@hotmail.com) | [![gis](/map.svg) GIS portfolio](https://chavezleobardo.wixsite.com/portfolio/) | [![github](/github.svg) GitHub](https://github.com/geo-leo/)
 
 <h1 class='section'>🌐 Summary</h1>
-<h3 class='tab'> Results-oriented worker with 3 years of case management and customer service experience. Looking to utilize multi-tasking skills as a GIS professional. Has 7 months of GIS internship experience and 5 months of volunteer experience using Esri's ArcGIS platform to perform data collection, create maps, analyze GIS data, and automate GIS workflows. Earned an Associate of Science in Applied GIS. </h3>
+<h3 class='tab'> Results-oriented worker with 3 years of case management and customer service experience. Looking to utilize multi-tasking skills as a GIS professional. Has 1 year of experience utilizing Esri's ArcGIS platform and Python/ R programming to perform data collection, create maps, analyze spatial data, and automate workflows. Earned an Associate’s in Applied GIS and a Bachelor’s in Political Science. </h3>
 
 <h1 class='section'>📈 Key Skills</h1> 
 <p class='tab'>
