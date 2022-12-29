@@ -53,7 +53,7 @@ hr.solid {
 <p class='tab'> 
 ● Esri ArcGIS: Desktop ArcMap, Pro, Online, Field Maps, Survey123 <br>
 ● Esri ArcGIS Online Apps: StoryMaps, Dashboards, Instant Apps, Web AppBuilder, Map Viewer, Experience Builder <br>
-● Programming: Python, ArcPy/ ArcGIS API for Python, ArcGIS Arcade, SQL, R, JavaScript, HTML/ CSS <br>
+● Programming: Python, ArcPy/ ArcGIS API for Python, ArcGIS Arcade, SQL, R, HTML/ CSS <br>
 ● Microsoft Office: Word, Excel, PowerPoint, Access, Outlook </p>
 
 <h1 class='section'>💼 Work Experience</h1>
