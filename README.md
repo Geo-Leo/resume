@@ -72,7 +72,7 @@ hr.solid {
 <p class='tab'>
   <b><i>Field Data Collection and Web Mapping</i></b> <br>
   ● Built a web map with ArcGIS Online and utilized the map to collect field data with ArcGIS Field Maps <br>
-  ● Created a web app with ArcGIS Online to display data, export data, and monitor completion status <br>
+  ● Created a web application with ArcGIS Online to map data, export data, and monitor completion status <br>
   ● Digitized and edited 1600+ unit locations with the Beans.ai MapMaker app to create accurate maps <br>
 
   <b><i>Data Analysis and Automation</i></b> <br>
