@@ -47,7 +47,7 @@ hr.solid {
 
 <h1 class='section'>📈 Key Skills</h1> 
 <p class='tab'>
-● Automation ● Cartography ● Data Analysis ● Data Visualization ● Database Management ● Field Data Collection ● Geospatial Programming ● Modeling ● Spatial Analysis ● Technical Assistance ● Web Mapping </p>
+● Automation ● Cartography ● Data Analysis ● Data Visualization ● Database Management ● Field Data Collection ● Geospatial Programming ● Spatial Analysis ● Technical Assistance ● Web Mapping </p>
 
 <h1 class='section'>📋 Technical Skills</h1>
 <p class='tab'> 
@@ -65,22 +65,22 @@ hr.solid {
     <img src="onehundredfeet.png" alt="100feet" class="avatar"/></a> </p> 
   </div>
   <div class="column right">
-    <p><b>GIS Data Collector Intern</b> @ <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> <br>
+    <p><strong>GIS Data Collector Intern</strong> @ <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> <br>
     South Pasadena, CA | <i>June 2022 - Dec 2022</i> </p>
   </div>
 </div>
 <p class='tab'>
-  <b><i>Field Data Collection and Web Mapping</i></b> <br>
+  <strong><em>Field Data Collection and Web Mapping</em></strong> <br>
   ● Built a web map with ArcGIS Online and utilized the map to collect field data with ArcGIS Field Maps <br>
   ● Created a web application with ArcGIS Online to map data, export data, and monitor completion status <br>
   ● Digitized and edited 1600+ unit locations with the Beans.ai MapMaker app to create accurate maps <br>
 
-  <b><i>Data Analysis and Automation</i></b> <br>
+  <strong><em>Spatial Analysis and Automation</em></strong> <br>
   ● Created ArcGIS notebooks/ Python scripts and utilized ModelBuilder to automate GIS workflows <br>
   ● Geocoded 275+ addresses and spatially joined demographic and parcel data with collected field data <br> 
   ● Calculated new fields and distances to geographic features to prepare data for regression analysis <br>
   
-  <b><i>Data Visualization and Modeling</i></b> <br>
+  <strong><em>Data Analysis and Visualization</em></strong> <br>
   ● Managed data, computed statistics, and generated graphs with Python to develop a regression model <br>
   ● Designed an ArcGIS dashboard app for management to present data and monitor field work in real time </p>
 
@@ -93,7 +93,7 @@ hr.solid {
     <img src="covid.svg" alt="covid" class="avatar"/> </a> </p> 
   </div>
     <div class="column right">
-    <p><b>Job gap due to the Coronavirus</b> | <i>May 2020 - May 2022</i> </p>
+    <p><strong>Job gap due to the Coronavirus</strong> | <i>May 2020 - May 2022</i> </p>
   </div>
 </div>
 <p class='tab'>
