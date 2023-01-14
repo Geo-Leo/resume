@@ -47,26 +47,32 @@ hr.solid {
 
 <h1 class='section'>📈 Key Skills</h1> 
 <p class='tab'>
-● Automation ● Cartography ● Data Analysis ● Data Visualization ● Database Management ● Field Data Collection ● Geospatial Programming ● Spatial Analysis ● Technical Assistance ● Web Mapping </p>
+● Automation ● Cartography ● Data Analysis ● Data Visualization ● Database Management ● Field Data Collection ● Geospatial Programming ● Spatial Analysis ● Technical Assistance ● Web Mapping 
+</p>
 
 <h1 class='section'>📋 Technical Skills</h1>
 <p class='tab'> 
 ● Esri ArcGIS: Desktop ArcMap, Pro, Online, Field Maps, Survey123 <br>
 ● Esri ArcGIS Online Apps: StoryMaps, Dashboards, Instant Apps, Web AppBuilder, Map Viewer, Experience Builder <br>
 ● Programming: Python, ArcPy/ ArcGIS API for Python, ArcGIS Arcade, SQL, R, HTML/ CSS <br>
-● Microsoft Office: Word, Excel, PowerPoint, Access, Outlook </p>
+● Microsoft Office: Word, Excel, PowerPoint, Access, Outlook 
+</p>
 
 <h1 class='section'>💼 Work Experience</h1>
 
 <div class="row">
   <div class="column left">
     <p align="left">
-    <a href="https://www.beans.ai/">
-    <img src="onehundredfeet.png" alt="100feet" class="avatar"/></a> </p> 
+      <a href="https://www.beans.ai/">
+        <img src="onehundredfeet.png" alt="100feet" class="avatar"/>
+      </a> 
+    </p> 
   </div>
   <div class="column right">
-    <p><strong>GIS Data Collector Intern</strong> @ <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> <br>
-    South Pasadena, CA | <i>June 2022 - Dec 2022</i> </p>
+    <p>
+      <strong>GIS Data Collector Intern</strong> @ <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> <br>
+      South Pasadena, CA | <em>June 2022 - Dec 2022</em> 
+    </p>
   </div>
 </div>
 <p class='tab'>
@@ -82,81 +88,98 @@ hr.solid {
   
   <strong><em>Data Analysis and Visualization</em></strong> <br>
   ● Managed data, computed statistics, and generated graphs with Python to develop a regression model <br>
-  ● Designed an ArcGIS dashboard app for management to present data and monitor field work in real time </p>
+  ● Designed an ArcGIS dashboard app for management to present data and monitor field work in real time 
+</p>
 
 <hr class="solid">
 
 <div class="row">
   <div class="column left">
     <p align="left">
-    <a href="https://en.wikipedia.org/wiki/COVID-19">
-    <img src="covid.svg" alt="covid" class="avatar"/> </a> </p> 
-  </div>
-    <div class="column right">
-    <p><strong>Job gap due to the Coronavirus</strong> | <i>May 2020 - May 2022</i> </p>
-  </div>
-</div>
-<p class='tab'>
-  ● Took courses in GIS and Computer Information Technology (CIT) </p>
-
-<hr class="solid">
-
-<div class="row">
-  <div class="column left">
-    <p align="left">
-    <a href="https://www.lacda.org/">
-    <img src="lacda.jpg" alt="lacda" class="avatar"/> </a> </p>  
+      <a href="https://en.wikipedia.org/wiki/COVID-19">
+        <img src="covid.svg" alt="covid" class="avatar"/> 
+      </a> 
+    </p> 
   </div>
   <div class="column right">
-    <p><b>Section 8 Case Manager</b> @ <a href="https://www.lacda.org/"> Los Angeles County Development Authority</a> <br>
-    Alhambra, CA | <i>Oct 2018 - April 2020</i> </p>
+    <p>
+      <strong>Job gap due to the Coronavirus</strong> | <em>May 2020 - May 2022</em> 
+    </p>
   </div>
 </div>
 <p class='tab'>
-  <b><i>Customer Service</i></b> <br>
+  ● Took courses in GIS and Computer Information Technology (CIT) 
+</p>
+
+<hr class="solid">
+
+<div class="row">
+  <div class="column left">
+    <p align="left">
+      <a href="https://www.lacda.org/">
+        <img src="lacda.jpg" alt="lacda" class="avatar"/> 
+      </a> 
+    </p>  
+  </div>
+  <div class="column right">
+    <p><strong>Section 8 Case Manager</strong> @ <a href="https://www.lacda.org/"> Los Angeles County Development Authority</a> <br>
+    Alhambra, CA | <em>Oct 2018 - April 2020</em> </p>
+  </div>
+</div>
+<p class='tab'>
+  <strong><em>Customer Service</em></strong> <br>
   ● Assisted clients with locating rental units and checked unit jurisdiction with the LACDA ArcGIS web app <br>
-  <b><i>Case Management</i></b> <br>
-  ● Managed an annual caseload of 350 families while processing assignments by monthly deadlines </p>
+  <strong><em>Case Management</em></strong> <br>
+  ● Managed an annual caseload of 350 families while processing assignments by monthly deadlines 
+</p>
 
 <hr class="solid">
 
 <div class="row">
   <div class="column left">
     <p align="left">
-    <a href="https://dpss.lacounty.gov/en.html">
-    <img src="dpss.png" alt="dpss" class="avatar"/> </a> </p>
+      <a href="https://dpss.lacounty.gov/en.html">
+        <img src="dpss.png" alt="dpss" class="avatar"/> 
+      </a> 
+    </p>
   </div>
   <div class="column right">
-    <p><b>Eligibility Worker II</b> @ <a href="https://www.lacda.org/"> County of Los Angeles, Department of Public Social Services</a> <br>
-    Los Angeles, CA | <i>Aug 2016 - Nov 2017</i> </p>
+    <p><strong>Eligibility Worker II</strong> @ <a href="https://www.lacda.org/"> County of Los Angeles, Department of Public Social Services</a> <br>
+    Los Angeles, CA | <em>Aug 2016 - Nov 2017</em> 
+    </p>
   </div>
 </div>
-<p class='tab'> 
-  <b><i>Customer Service</i></b> <br>
+<p class='tab'>
+  <strong><em>Customer Service</em></strong> <br>
   ● Referred clients for county services with the LA County Services Locator and Enterprise GIS portal <br>
-  <b><i>Case Management</i></b> <br>
-  ● Managed an annual caseload of 600 households while processing cases by monthly deadlines </p>
+  <strong><em>Case Management</em></strong> <br>
+  ● Managed an annual caseload of 600 households while processing cases by monthly deadlines 
+</p>
 
 <h1 class='section'>📝 Volunteer Experience</h1>
 
 <div class="row">
   <div class="column left">
     <p align="left">
-    <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer">
-    <img src="long%20beach2.png" alt="csulb coe" class="avatar"/> </a> </p> 
+      <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer">
+        <img src="long%20beach2.png" alt="csulb coe" class="avatar"/> 
+      </a> 
+    </p> 
   </div>
   <div class="column right">
-    <p><b>Research Assistant</b> @ <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer"> Dr. Lesley Farmer, CSULB College of Education</a> <br>
-    Long Beach, CA | <i>Jan 2015 - May 2015</i> </p>
+    <p><strong>Research Assistant</strong> @ <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer"> Dr. Lesley Farmer, CSULB College of Education</a> <br>
+    Long Beach, CA | <em>Jan 2015 - May 2015</em> 
+    </p>
   </div>
 </div>
 <p class='tab'>
-  <b><i>Technical Assistance</i></b> <br>
+  <strong><em>Technical Assistance</em></strong> <br>
   ● Provided technical assistance to clients on producing detailed maps with Tableau and ArcGIS Desktop ArcMap <br>
   
-  <b><i>Data Analysis and Visualization</i></b> <br>
+  <strong><em>Data Analysis and Visualization</em></strong> <br>
   ● Developed an R script to clean survey data, remove outliers, and compute descriptive statistics <br>
-  ● Joined data to geographic features with ArcGIS ArcMap to create US maps of student library services </p>
+  ● Joined data to geographic features with ArcGIS ArcMap to create US maps of student library services 
+</p>
 
 
 <h1 class='section'>📓 Training</h1>
@@ -164,16 +187,20 @@ hr.solid {
 <div class="row">
   <div class="column left">
     <p align="left">
-    <a href="https://www.esri.com/training/">
-    <img src="esri.png" alt="esri" class="avatar"/> </a> </p>
+      <a href="https://www.esri.com/training/">
+        <img src="esri.png" alt="esri" class="avatar"/> 
+      </a> 
+    </p>
   </div>
   <div class="column right">
-    <p><b>Esri Training Certificates</b> <br> 
-    <a href="https://www.esri.com/training/"> Esri Academy</a> | Online | <i>Ongoing</i> </p>
+    <p><strong>Esri Training Certificates</strong> <br> 
+      <a href="https://www.esri.com/training/"> Esri Academy</a> | Online | <em>Ongoing</em> 
+    </p>
   </div>
 </div>
 <p class='tab'>
-  ● Completed 14 web courses totaling 37.5 hours of training using Esri’s ArcGIS platform </p>
+  ● Completed 14 web courses totaling 37.5 hours of training using Esri’s ArcGIS platform 
+</p>
 <iframe width="100%" height="350" src="https://datastudio.google.com/embed/reporting/fb3f8c62-e8da-41bf-ac34-2a70012fd5b0/page/jqp5C" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
@@ -182,31 +209,39 @@ hr.solid {
 <div class="row">
   <div class="column left">
     <p align="left">
-    <a href="https://www.riohondo.edu/">
-    <img src="riohondo.svg" alt="riohondo" class="avatar"/> </a> </p> 
+      <a href="https://www.riohondo.edu/">
+        <img src="riohondo.svg" alt="riohondo" class="avatar"/> 
+      </a> 
+    </p> 
   </div>
   <div class="column right">
-    <p><b>Associate of Science</b> in Applied Geographic Information Systems <br>
-    <a href="https://www.riohondo.edu/"> Rio Hondo College</a> | Whittier, CA | <i>Dec 2022</i> </p>
+    <p><strong>Associate of Science</strong> in Applied Geographic Information Systems <br>
+      <a href="https://www.riohondo.edu/"> Rio Hondo College</a> | Whittier, CA | <em>Dec 2022</em> 
+    </p>
   </div>
 </div>
 <p class='tab'>
   ● Environmental Specialization: Applied spatial analysis and programming in 7 GIS and 2 CIT courses <br> &emsp; &emsp;
     ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, GIS Internship, <br> &emsp; &emsp;
-    Geospatial Programming, Intro to Programming, and Python Programming I</p>
+    Geospatial Programming, Intro to Programming, and Python Programming I
+</p>
 
 <hr class="solid">
 
 <div class="row">
   <div class="column left">
     <p align="left">
-    <a href="https://www.ucla.edu/">
-    <img src="ucla.png" alt="ucla" class="avatar"/> </a></p> 
+      <a href="https://www.ucla.edu/">
+        <img src="ucla.png" alt="ucla" class="avatar"/> 
+      </a>
+    </p> 
   </div>
   <div class="column right">
-    <p><b>Bachelor of Arts</b> in Political Science <br>
-    <a href="https://www.ucla.edu/"> University of California, Los Angeles (UCLA)</a> | Los Angeles, CA | <i>2014</i> </p>
+    <p><strong>Bachelor of Arts</strong> in Political Science <br>
+      <a href="https://www.ucla.edu/"> University of California, Los Angeles (UCLA)</a> | Los Angeles, CA | <em>2014</em> 
+    </p>
   </div>
 </div>
 <p class='tab'>
-  ● Methods and Models Concentration: Applied data analysis in 4 Political Science and 5 Statistics courses </p>
+  ● Methods and Models Concentration: Applied data analysis in 4 Political Science and 5 Statistics courses 
+</p>
