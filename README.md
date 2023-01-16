@@ -62,11 +62,9 @@ hr.solid {
 
 <div class="row">
   <div class="column left">
-    <p align="left">
-      <a href="https://www.beans.ai/">
-        <img src="./pics/beansai.png" alt="100feet" class="avatar"/>
-      </a> 
-    </p> 
+    <a href="https://www.beans.ai/">
+      <img src="./pics/beansai.png" alt="100feet" class="avatar"/>
+    </a> 
   </div>
   <div class="column right">
     <p>
@@ -122,8 +120,10 @@ hr.solid {
     </p>  
   </div>
   <div class="column right">
-    <p><strong>Section 8 Case Manager</strong> @ <a href="https://www.lacda.org/"> Los Angeles County Development Authority</a> <br>
-    Alhambra, CA | <em>Oct 2018 - April 2020</em> </p>
+    <p>
+      <strong>Section 8 Case Manager</strong> @ <a href="https://www.lacda.org/"> Los Angeles County Development Authority</a> <br>
+      Alhambra, CA | <em>Oct 2018 - April 2020</em> 
+    </p>
   </div>
 </div>
 <p class='tab'>
@@ -144,8 +144,9 @@ hr.solid {
     </p>
   </div>
   <div class="column right">
-    <p><strong>Eligibility Worker II</strong> @ <a href="https://www.lacda.org/"> County of Los Angeles, Department of Public Social Services</a> <br>
-    Los Angeles, CA | <em>Aug 2016 - Nov 2017</em> 
+    <p>
+      <strong>Eligibility Worker II</strong> @ <a href="https://www.lacda.org/"> County of Los Angeles, Department of Public Social Services</a> <br>
+      Los Angeles, CA | <em>Aug 2016 - Nov 2017</em> 
     </p>
   </div>
 </div>
@@ -167,8 +168,9 @@ hr.solid {
     </p> 
   </div>
   <div class="column right">
-    <p><strong>Research Assistant</strong> @ <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer"> Dr. Lesley Farmer, CSULB College of Education</a> <br>
-    Long Beach, CA | <em>Jan 2015 - May 2015</em> 
+    <p>
+      <strong>Research Assistant</strong> @ <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer"> Dr. Lesley Farmer, CSULB College of Education</a> <br>
+      Long Beach, CA | <em>Jan 2015 - May 2015</em> 
     </p>
   </div>
 </div>
@@ -193,7 +195,8 @@ hr.solid {
     </p>
   </div>
   <div class="column right">
-    <p><strong>Esri Training Certificates</strong> <br> 
+    <p>
+      <strong>Esri Training Certificates</strong> <br> 
       <a href="https://www.esri.com/training/"> Esri Academy</a> | Online | <em>Ongoing</em> 
     </p>
   </div>
@@ -215,7 +218,8 @@ hr.solid {
     </p> 
   </div>
   <div class="column right">
-    <p><strong>Associate of Science</strong> in Applied Geographic Information Systems <br>
+    <p>
+      <strong>Associate of Science</strong> in Applied Geographic Information Systems <br>
       <a href="https://www.riohondo.edu/"> Rio Hondo College</a> | Whittier, CA | <em>Dec 2022</em> 
     </p>
   </div>
@@ -237,7 +241,8 @@ hr.solid {
     </p> 
   </div>
   <div class="column right">
-    <p><strong>Bachelor of Arts</strong> in Political Science <br>
+    <p>
+      <strong>Bachelor of Arts</strong> in Political Science <br>
       <a href="https://www.ucla.edu/"> University of California, Los Angeles (UCLA)</a> | Los Angeles, CA | <em>2014</em> 
     </p>
   </div>
