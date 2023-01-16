@@ -93,11 +93,9 @@ hr.solid {
 
 <div class="row">
   <div class="column left">
-    <p align="left">
-      <a href="https://en.wikipedia.org/wiki/COVID-19">
-        <img src="./pics/covid.svg" alt="covid" class="avatar"/> 
-      </a> 
-    </p> 
+    <a href="https://en.wikipedia.org/wiki/COVID-19">
+      <img src="./pics/covid.svg" alt="covid" class="avatar"/> 
+    </a> 
   </div>
   <div class="column right">
     <p>
@@ -113,11 +111,9 @@ hr.solid {
 
 <div class="row">
   <div class="column left">
-    <p align="left">
-      <a href="https://www.lacda.org/">
-        <img src="./pics/lacda.jpg" alt="lacda" class="avatar"/> 
-      </a> 
-    </p>  
+    <a href="https://www.lacda.org/">
+      <img src="./pics/lacda.jpg" alt="lacda" class="avatar"/> 
+    </a> 
   </div>
   <div class="column right">
     <p>
@@ -137,11 +133,9 @@ hr.solid {
 
 <div class="row">
   <div class="column left">
-    <p align="left">
-      <a href="https://dpss.lacounty.gov/en.html">
-        <img src="./pics/dpss.png" alt="dpss" class="avatar"/> 
-      </a> 
-    </p>
+    <a href="https://dpss.lacounty.gov/en.html">
+      <img src="./pics/dpss.png" alt="dpss" class="avatar"/> 
+    </a> 
   </div>
   <div class="column right">
     <p>
@@ -161,11 +155,9 @@ hr.solid {
 
 <div class="row">
   <div class="column left">
-    <p align="left">
-      <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer">
-        <img src="./pics/longbeach.png" alt="csulb coe" class="avatar"/> 
-      </a> 
-    </p> 
+    <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer">
+      <img src="./pics/longbeach.png" alt="csulb coe" class="avatar"/> 
+    </a> 
   </div>
   <div class="column right">
     <p>
@@ -188,11 +180,9 @@ hr.solid {
 
 <div class="row">
   <div class="column left">
-    <p align="left">
-      <a href="https://www.esri.com/training/">
-        <img src="./pics/esri.png" alt="esri" class="avatar"/> 
-      </a> 
-    </p>
+    <a href="https://www.esri.com/training/">
+      <img src="./pics/esri.png" alt="esri" class="avatar"/> 
+    </a> 
   </div>
   <div class="column right">
     <p>
@@ -211,11 +201,9 @@ hr.solid {
 
 <div class="row">
   <div class="column left">
-    <p align="left">
-      <a href="https://www.riohondo.edu/">
-        <img src="./pics/riohondo.svg" alt="riohondo" class="avatar"/> 
-      </a> 
-    </p> 
+    <a href="https://www.riohondo.edu/">
+      <img src="./pics/riohondo.svg" alt="riohondo" class="avatar"/> 
+    </a> 
   </div>
   <div class="column right">
     <p>
@@ -234,11 +222,9 @@ hr.solid {
 
 <div class="row">
   <div class="column left">
-    <p align="left">
-      <a href="https://www.ucla.edu/">
-        <img src="./pics/ucla.png" alt="ucla" class="avatar"/> 
-      </a>
-    </p> 
+    <a href="https://www.ucla.edu/">
+      <img src="./pics/ucla.png" alt="ucla" class="avatar"/> 
+    </a>
   </div>
   <div class="column right">
     <p>
