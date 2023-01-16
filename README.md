@@ -40,7 +40,7 @@ hr.solid {
   border: 1px solid gray;
   border-radius: 5px}
 </style>
-[![email](/email.svg) Email](mailto:chavezleobardo@hotmail.com) | [![gis](/map.svg) GIS portfolio](https://chavezleobardo.wixsite.com/portfolio/) | [![github](/github.svg) GitHub](https://github.com/geo-leo/)
+[![email](/pics/email.svg) Email](mailto:chavezleobardo@hotmail.com) | [![gis](/pics/map.svg) GIS portfolio](https://chavezleobardo.wixsite.com/portfolio/) | [![github](/pics/github.svg) GitHub](https://github.com/geo-leo/)
 
 <h1 class='section'>🌐 Summary</h1>
 <h3 class='tab'> Results-oriented worker with 3 years of case management and customer service experience. Looking to utilize multi-tasking skills as a GIS professional. Has 1 year of experience utilizing Esri's ArcGIS platform and Python/ R programming to perform data collection, create maps, analyze spatial data, and automate workflows. Earned an Associate’s in Applied GIS and a Bachelor’s in Political Science. </h3>
@@ -64,13 +64,13 @@ hr.solid {
   <div class="column left">
     <p align="left">
       <a href="https://www.beans.ai/">
-        <img src="onehundredfeet.png" alt="100feet" class="avatar"/>
+        <img src="/pics/beansai.png" alt="100feet" class="avatar"/>
       </a> 
     </p> 
   </div>
   <div class="column right">
     <p>
-      <strong>GIS Data Collector Intern</strong> @ <a href="https://www.beans.ai/"> One Hundred Feet Inc.</a> <br>
+      <strong>GIS Data Collector Intern</strong> @ <a href="https://www.beans.ai/"> One Hundred Feet Inc</a> <br>
       South Pasadena, CA | <em>June 2022 - Dec 2022</em> 
     </p>
   </div>
@@ -97,7 +97,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
       <a href="https://en.wikipedia.org/wiki/COVID-19">
-        <img src="covid.svg" alt="covid" class="avatar"/> 
+        <img src="/pics/covid.svg" alt="covid" class="avatar"/> 
       </a> 
     </p> 
   </div>
@@ -117,7 +117,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
       <a href="https://www.lacda.org/">
-        <img src="lacda.jpg" alt="lacda" class="avatar"/> 
+        <img src="/pics/lacda.jpg" alt="lacda" class="avatar"/> 
       </a> 
     </p>  
   </div>
@@ -210,7 +210,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
       <a href="https://www.riohondo.edu/">
-        <img src="riohondo.svg" alt="riohondo" class="avatar"/> 
+        <img src="/pics/riohondo.svg" alt="riohondo" class="avatar"/> 
       </a> 
     </p> 
   </div>
@@ -232,7 +232,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
       <a href="https://www.ucla.edu/">
-        <img src="ucla.png" alt="ucla" class="avatar"/> 
+        <img src="/pics/ucla.png" alt="ucla" class="avatar"/> 
       </a>
     </p> 
   </div>
