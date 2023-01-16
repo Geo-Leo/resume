@@ -64,7 +64,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
       <a href="https://www.beans.ai/">
-        <img src="/pics/beansai.png" alt="100feet" class="avatar"/>
+        <img src="./pics/beansai.png" alt="100feet" class="avatar"/>
       </a> 
     </p> 
   </div>
@@ -97,7 +97,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
       <a href="https://en.wikipedia.org/wiki/COVID-19">
-        <img src="/pics/covid.svg" alt="covid" class="avatar"/> 
+        <img src="./pics/covid.svg" alt="covid" class="avatar"/> 
       </a> 
     </p> 
   </div>
@@ -117,7 +117,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
       <a href="https://www.lacda.org/">
-        <img src="/pics/lacda.jpg" alt="lacda" class="avatar"/> 
+        <img src="./pics/lacda.jpg" alt="lacda" class="avatar"/> 
       </a> 
     </p>  
   </div>
@@ -139,7 +139,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
       <a href="https://dpss.lacounty.gov/en.html">
-        <img src="dpss.png" alt="dpss" class="avatar"/> 
+        <img src="./pics/dpss.png" alt="dpss" class="avatar"/> 
       </a> 
     </p>
   </div>
@@ -162,7 +162,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
       <a href="https://www.csulb.edu/college-of-education/teacher-librarian-services-credential/page/lesley-farmer">
-        <img src="long%20beach2.png" alt="csulb coe" class="avatar"/> 
+        <img src="./pics/longbeach.png" alt="csulb coe" class="avatar"/> 
       </a> 
     </p> 
   </div>
@@ -188,7 +188,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
       <a href="https://www.esri.com/training/">
-        <img src="esri.png" alt="esri" class="avatar"/> 
+        <img src="./pics/esri.png" alt="esri" class="avatar"/> 
       </a> 
     </p>
   </div>
@@ -210,7 +210,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
       <a href="https://www.riohondo.edu/">
-        <img src="/pics/riohondo.svg" alt="riohondo" class="avatar"/> 
+        <img src="./pics/riohondo.svg" alt="riohondo" class="avatar"/> 
       </a> 
     </p> 
   </div>
@@ -232,7 +232,7 @@ hr.solid {
   <div class="column left">
     <p align="left">
       <a href="https://www.ucla.edu/">
-        <img src="/pics/ucla.png" alt="ucla" class="avatar"/> 
+        <img src="./pics/ucla.png" alt="ucla" class="avatar"/> 
       </a>
     </p> 
   </div>
