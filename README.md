@@ -148,7 +148,7 @@ hr.solid {
   <strong><em>Customer Service</em></strong> <br>
   ● Referred clients for county services with the LA County Services Locator and Enterprise GIS portal <br>
   <strong><em>Case Management</em></strong> <br>
-  ● Managed an annual caseload of 600 households while processing cases by monthly deadlines 
+  ● Managed an annual caseload of 600 households while processing assignments by monthly deadlines 
 </p>
 
 <h1 class='section'>📝 Volunteer Experience</h1>
