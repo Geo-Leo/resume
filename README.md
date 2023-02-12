@@ -139,7 +139,7 @@ hr.solid {
   </div>
   <div class="column right">
     <p>
-      <strong>Eligibility Worker II</strong> @ <a href="https://www.lacda.org/"> County of Los Angeles, Department of Public Social Services</a> <br>
+      <strong>Eligibility Worker II</strong> @ <a href="https://dpss.lacounty.gov/en.html"> County of Los Angeles, Department of Public Social Services</a> <br>
       Los Angeles, CA | <em>Aug 2016 - Nov 2017</em> 
     </p>
   </div>
@@ -214,7 +214,7 @@ hr.solid {
 </div>
 <p class='tab'>
   ● Environmental Specialization: Applied spatial analysis and programming in 7 GIS and 2 CIT courses <br> &emsp; &emsp;
-    ○ Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, GIS Internship, <br> &emsp; &emsp;
+    ● Intro to GIS, Intermediate GIS, Cartography, Environmental GIS, Field Data Applications, GIS Internship, <br> &emsp; &emsp;
     Geospatial Programming, Intro to Programming, and Python Programming I
 </p>
 
